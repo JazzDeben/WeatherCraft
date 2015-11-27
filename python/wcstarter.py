@@ -14,6 +14,8 @@ import configparser     # a config initialisation library (to load config files)
 import os               # a library used to check files on the system
 import re               # Oh yeah, that's right, import regular expression, c'mon baby
 
+from cmdline import launch
+
 # start
 # I want the ability to start with specific target IP address for the weather state REST API server, and port (default being 127.0.0.1 and 8080)
 # I want the ability to start with a different log file name
@@ -23,21 +25,7 @@ import re               # Oh yeah, that's right, import regular expression, c'mo
 # The final argument is the IP address of the minecraft server (mandatory)
 
 
-directory = './log'
-    
-if not os.path.exists(directory):
-    os.makedirs(directory)
-        
-# declare the log file name - hard wired
 
-logger = logging.getLogger('wc.controller')
-fh = logging.FileHandler(filename = directory+'/weathercraft.log')
-logging.basicConfig(level = logging.INFO)
-
-formatter = logging.Formatter('%(asctime)s - %(name)s - %(levelname)s - %(message)s')
-fh.setFormatter(formatter)
-
-logger.addHandler(fh)
 
 
 
@@ -47,10 +35,32 @@ def main():
 
     ## Start initialisation which includes reading input arguments and logging
 
+    loginit()
     
     initialise()
 
     return
+    
+
+def loginit():
+    # if no log directory exist create one
+    # hard wired
+
+    directory = './log'
+    
+    if not os.path.exists(directory):
+        os.makedirs(directory)
+        
+    # declare the log file name - hard wired
+
+    logger = logging.getLogger('wc.controller')
+    fh = logging.FileHandler(filename = directory+'/weathercraft.log')
+    logging.basicConfig(level = logging.INFO)
+    
+    formatter = logging.Formatter('%(asctime)s - %(name)s - %(levelname)s - %(message)s')
+    fh.setFormatter(formatter)
+    
+    logger.addHandler(fh)
     
 
 
@@ -58,13 +68,7 @@ def main():
 def initialise():
 
 
-
-    logger.info('WeatherCraft weather state reader and forward to Minecraft server is starting...')
-    
-    logger.debug('Kicking off the - initialise - method')
-
-    # if no log directory exist create one
-    # hard wired
+    logger = logging.getLogger('wc.controller')
 
     # start parsing arguments
     parser = argparse.ArgumentParser(description='Start the weather craft command module which sends external sensor information to the designated minecraft server (target). Note readings from the command line argument passing override values in the default config file wcconfig.ini')
@@ -80,8 +84,14 @@ def initialise():
     parser.add_argument("-pwd", "--password", help = "password for the minecraft server API", type = str)
     parser.add_argument("-lip", "--localip", default = '127.0.0.1', help = "local IP address default 127.0.0.1", type = str)
     parser.add_argument("-lp", "--localport", default = 8080, help = "local port default 8080", type = int)
+    parser.add_argument("-t", "--test", action = "store_true", help = "Run in test mode with command line input")
 
     args = parser.parse_args()
+
+
+    logger.info('WeatherCraft weather state reader and forward to Minecraft server is starting...')
+    
+    logger.debug('Kicking off the - initialise - method')
 
 
     
@@ -107,7 +117,7 @@ def initialise():
     if logger.getEffectiveLevel() <= 10:
         for arg, value in vars(args).items():
             logger.debug('Argument no ' + ' : ' + str(arg) +' = ' + str(value))
-            print('Argument no ' + ' : ' + str(arg) +' = ' + str(value))
+            #print('Argument no ' + ' : ' + str(arg) +' = ' + str(value))
 
     ## validate target address
     ipreg = re.compile(r"(\d{1,3}\.{1}){3}\d{1,3}")
@@ -115,7 +125,7 @@ def initialise():
     
     if ipmatch:
         logger.debug('The target address is: ' + args.target)
-        global targetip
+        #global targetip
         targetip = args.target
     else:
         # TODO learn how to use additional arguments *args and **kwargs for error logging
@@ -125,7 +135,7 @@ def initialise():
     if args.port:
         if 0 < args.port and args.port < 65536:
             logger.debug('The port number is: ' + str(args.port))
-            global portnumber
+            #global portnumber
             portnumber = args.port
         else:
             logger.error('The selected port ' + args.port + ' is invalid, must be between 0 and 65536')
@@ -134,18 +144,18 @@ def initialise():
     if args.frequency:
         if (0 < args.frequency) and (args.frequency <= 600):
             logger.debug('The frequency is : ' + str(args.frequency))
-            global frequency
+            #global frequency
             frequency = args.frequency
         else:
             frequency = args.frequency
             logger.debug('frequency default to ' + str(args.frequency))
 
     if args.user:
-        global user
+        #global user
         user = args.user
 
     if args.password:
-        global password
+        #global password
         password = args.password
 
     ## validate local target address
@@ -154,7 +164,7 @@ def initialise():
     
     if ipmatch:
         logger.debug('The target address is: ' + args.target)
-        global localtargetip
+        #global localtargetip
         localtargetip = args.localip
     else:
         # TODO learn how to use additional arguments *args and **kwargs for error logging
@@ -164,7 +174,7 @@ def initialise():
     if args.localport:
         if 0 < args.localport and args.localport < 65536:
             logger.debug('The port number is: ' + str(args.port))
-            global localportnumber
+            #global localportnumber
             localportnumber = args.localport
         else:
             logger.error('The selected port ' + args.port + ' is invalid, must be between 0 and 65536')
@@ -218,6 +228,17 @@ def initialise():
         logger.error('Refresh frequency is not defined')
     else:
         logger.debug('final config frequency: ' + str(frequency))
+
+
+
+    #
+    # If test flag is up ask for user input (usually for testing)
+    #
+    if args.test:
+        logger.debug('Launching a test with the following parameters: ' + user + ' ' + password + ' ' + targetip + ' ' + portnumber)
+        launch(user, password, targetip, portnumber)
+
+
     
     return
 

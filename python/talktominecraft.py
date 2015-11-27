@@ -11,8 +11,8 @@
 
 import telnetlib
 
-HOST = "127.0.0.1"
-port = "25564"
+HOST = "192.168.1.89"
+port = "25565"
 user = b"username"
 password = b"password"
 
@@ -22,4 +22,4 @@ tn.write(user + b"\n")
 tn.write(password + b"\n")
 tn.write(b"\n")
 tn.write(b"weather rain\n")
-tn.close()
+#tn.close()

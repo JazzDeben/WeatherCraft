@@ -15,10 +15,10 @@ import logging      # a logger library
 def rain(user, password, targetip, portnumber):
 
     buser = bytearray()
-    buser.extend(map(ord, password))
+    buser = user.encode('UTF-8')
 
     bpassword = bytearray()
-    bpassword.extend(map(ord, password))
+    bpassword = password.encode('UTF-8')
 
     logger = logging.getLogger('wc.controller')
     logger.info('Starting rain function in telnetapi')
@@ -26,8 +26,8 @@ def rain(user, password, targetip, portnumber):
 
     tn = telnetlib.Telnet(targetip, portnumber)
 
-    tn.write(user + b"\n")
-    tn.write(password + b"\n")
+    tn.write(buser + b"\n")
+    tn.write(bpassword + b"\n")
     tn.write(b"\n")
     tn.write(b"weather rain\n")
     tn.close()
@@ -37,14 +37,20 @@ def rain(user, password, targetip, portnumber):
 
 def sun(user, password, targetip, portnumber):
 
+    buser = bytearray()
+    buser = user.encode('UTF-8')
+
+    bpassword = bytearray()
+    bpassword = password.encode('UTF-8')
+
     logger = logging.getLogger('wc.controller')
     logger.info('Starting sun function in telnetapi')
     logger.debug('calling telnet with following arguments: ' + user + ' ' + password + ' ' + targetip + ' ' + portnumber)
 
     tn = telnetlib.Telnet(targetip, portnumber)
 
-    tn.write(user + b"\n")
-    tn.write(password + b"\n")
+    tn.write(buser + b"\n")
+    tn.write(bpassword + b"\n")
     tn.write(b"\n")
     tn.write(b"weather clear\n")
     tn.close()
@@ -55,14 +61,20 @@ def sun(user, password, targetip, portnumber):
 
 def toggleweather(user, password, targetip, portnumber):
 
+    buser = bytearray()
+    buser = user.encode('UTF-8')
+
+    bpassword = bytearray()
+    bpassword = password.encode('UTF-8')
+
     logger = logging.getLogger('wc.controller')
     logger.info('Starting toggleweather function in telnetapi')
     logger.debug('calling telnet with following arguments: ' + user + ' ' + password + ' ' + targetip + ' ' + portnumber)
 
     tn = telnetlib.Telnet(targetip, portnumber)
 
-    tn.write(user + b"\n")
-    tn.write(password + b"\n")
+    tn.write(buser + b"\n")
+    tn.write(bpassword + b"\n")
     tn.write(b"\n")
     tn.write(b"toggledownfall\n")
     tn.close()
@@ -73,14 +85,20 @@ def toggleweather(user, password, targetip, portnumber):
 
 def day(user, password, targetip, portnumber):
 
+    buser = bytearray()
+    buser = user.encode('UTF-8')
+
+    bpassword = bytearray()
+    bpassword = password.encode('UTF-8')
+
     logger = logging.getLogger('wc.controller')
     logger.info('Starting day function in telnetapi')
     logger.debug('calling telnet with following arguments: ' + user + ' ' + password + ' ' + targetip + ' ' + portnumber)
 
     tn = telnetlib.Telnet(targetip, portnumber)
 
-    tn.write(user + b"\n")
-    tn.write(password + b"\n")
+    tn.write(buser + b"\n")
+    tn.write(bpassword + b"\n")
     tn.write(b"\n")
     tn.write(b"time set day\n")
     tn.close()
@@ -91,14 +109,20 @@ def day(user, password, targetip, portnumber):
 
 def night(user, password, targetip, portnumber):
 
+    buser = bytearray()
+    buser = user.encode('UTF-8')
+
+    bpassword = bytearray()
+    bpassword = password.encode('UTF-8')
+
     logger = logging.getLogger('wc.controller')
     logger.info('Starting night function in telnetapi')
     logger.debug('calling telnet with following arguments: ' + user + ' ' + password + ' ' + targetip + ' ' + portnumber)
 
     tn = telnetlib.Telnet(targetip, portnumber)
 
-    tn.write(user + b"\n")
-    tn.write(password + b"\n")
+    tn.write(buser + b"\n")
+    tn.write(bpassword + b"\n")
     tn.write(b"\n")
     tn.write(b"time set night\n")
     tn.close()
