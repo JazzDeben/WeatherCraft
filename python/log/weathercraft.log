@@ -1,0 +1,1551 @@
+2015-11-25 21:57:25,548 - wc.controller - INFO - WeatherCraft weather state reader and forward to Minecraft server is starting...
+2015-11-25 21:57:25,548 - wc.controller - DEBUG - Argument no  : user = None
+2015-11-25 21:57:25,548 - wc.controller - DEBUG - Argument no  : password = None
+2015-11-25 21:57:25,548 - wc.controller - DEBUG - Argument no  : test = True
+2015-11-25 21:57:25,564 - wc.controller - DEBUG - Argument no  : port = None
+2015-11-25 21:57:25,564 - wc.controller - DEBUG - Argument no  : loglevel = debug
+2015-11-25 21:57:25,564 - wc.controller - DEBUG - Argument no  : frequency = 60
+2015-11-25 21:57:25,564 - wc.controller - DEBUG - Argument no  : localip = 127.0.0.1
+2015-11-25 21:57:25,564 - wc.controller - DEBUG - Argument no  : localport = 8080
+2015-11-25 21:57:25,564 - wc.controller - DEBUG - Argument no  : configfile = wcconfig.ini
+2015-11-25 21:57:25,564 - wc.controller - DEBUG - Argument no  : target = 192.168.1.89
+2015-11-25 21:57:25,564 - wc.controller - DEBUG - Argument no  : verbose = True
+2015-11-25 21:57:25,564 - wc.controller - DEBUG - The target address is: 192.168.1.89
+2015-11-25 21:57:25,564 - wc.controller - DEBUG - The frequency is : 60
+2015-11-25 21:57:25,564 - wc.controller - DEBUG - The target address is: 192.168.1.89
+2015-11-25 21:57:25,564 - wc.controller - DEBUG - The port number is: None
+2015-11-25 22:00:21,198 - wc.controller - INFO - WeatherCraft weather state reader and forward to Minecraft server is starting...
+2015-11-25 22:00:21,198 - wc.controller - DEBUG - Argument no  : configfile = wcconfig.ini
+2015-11-25 22:00:21,214 - wc.controller - DEBUG - Argument no  : localip = 127.0.0.1
+2015-11-25 22:00:21,214 - wc.controller - DEBUG - Argument no  : frequency = 60
+2015-11-25 22:00:21,214 - wc.controller - DEBUG - Argument no  : loglevel = debug
+2015-11-25 22:00:21,214 - wc.controller - DEBUG - Argument no  : localport = 8080
+2015-11-25 22:00:21,214 - wc.controller - DEBUG - Argument no  : user = None
+2015-11-25 22:00:21,214 - wc.controller - DEBUG - Argument no  : password = None
+2015-11-25 22:00:21,214 - wc.controller - DEBUG - Argument no  : test = True
+2015-11-25 22:00:21,214 - wc.controller - DEBUG - Argument no  : target = 192.168.1.89
+2015-11-25 22:00:21,214 - wc.controller - DEBUG - Argument no  : port = None
+2015-11-25 22:00:21,214 - wc.controller - DEBUG - Argument no  : verbose = True
+2015-11-25 22:00:21,214 - wc.controller - DEBUG - The target address is: 192.168.1.89
+2015-11-25 22:00:21,214 - wc.controller - DEBUG - The frequency is : 60
+2015-11-25 22:00:21,214 - wc.controller - DEBUG - The target address is: 192.168.1.89
+2015-11-25 22:00:21,214 - wc.controller - DEBUG - The port number is: None
+2015-11-25 22:34:56,929 - wc.controller - INFO - WeatherCraft weather state reader and forward to Minecraft server is starting...
+2015-11-25 22:34:56,929 - wc.controller - DEBUG - Argument no  : password = None
+2015-11-25 22:34:56,944 - wc.controller - DEBUG - Argument no  : verbose = True
+2015-11-25 22:34:56,944 - wc.controller - DEBUG - Argument no  : target = 192.168.1.89
+2015-11-25 22:34:56,944 - wc.controller - DEBUG - Argument no  : user = None
+2015-11-25 22:34:56,944 - wc.controller - DEBUG - Argument no  : test = True
+2015-11-25 22:34:56,944 - wc.controller - DEBUG - Argument no  : configfile = wcconfig.ini
+2015-11-25 22:34:56,944 - wc.controller - DEBUG - Argument no  : localip = 127.0.0.1
+2015-11-25 22:34:56,944 - wc.controller - DEBUG - Argument no  : port = None
+2015-11-25 22:34:56,944 - wc.controller - DEBUG - Argument no  : loglevel = debug
+2015-11-25 22:34:56,944 - wc.controller - DEBUG - Argument no  : frequency = 60
+2015-11-25 22:34:56,944 - wc.controller - DEBUG - Argument no  : localport = 8080
+2015-11-25 22:34:56,944 - wc.controller - DEBUG - The target address is: 192.168.1.89
+2015-11-25 22:34:56,944 - wc.controller - DEBUG - The frequency is : 60
+2015-11-25 22:34:56,944 - wc.controller - DEBUG - The target address is: 192.168.1.89
+2015-11-25 22:34:56,944 - wc.controller - DEBUG - The port number is: None
+2015-11-25 22:37:11,585 - wc.controller - INFO - WeatherCraft weather state reader and forward to Minecraft server is starting...
+2015-11-25 22:37:11,585 - wc.controller - DEBUG - Argument no  : test = True
+2015-11-25 22:37:11,585 - wc.controller - DEBUG - Argument no  : loglevel = debug
+2015-11-25 22:37:11,585 - wc.controller - DEBUG - Argument no  : configfile = wcconfig.ini
+2015-11-25 22:37:11,585 - wc.controller - DEBUG - Argument no  : verbose = True
+2015-11-25 22:37:11,585 - wc.controller - DEBUG - Argument no  : password = None
+2015-11-25 22:37:11,585 - wc.controller - DEBUG - Argument no  : port = None
+2015-11-25 22:37:11,585 - wc.controller - DEBUG - Argument no  : localip = 127.0.0.1
+2015-11-25 22:37:11,585 - wc.controller - DEBUG - Argument no  : frequency = 60
+2015-11-25 22:37:11,585 - wc.controller - DEBUG - Argument no  : target = 192.168.1.89
+2015-11-25 22:37:11,585 - wc.controller - DEBUG - Argument no  : user = None
+2015-11-25 22:37:11,585 - wc.controller - DEBUG - Argument no  : localport = 8080
+2015-11-25 22:37:11,585 - wc.controller - DEBUG - The target address is: 192.168.1.89
+2015-11-25 22:37:11,585 - wc.controller - DEBUG - The frequency is : 60
+2015-11-25 22:37:11,585 - wc.controller - DEBUG - The target address is: 192.168.1.89
+2015-11-25 22:37:11,585 - wc.controller - DEBUG - The port number is: None
+2015-11-25 22:37:11,601 - wc.controller - INFO - Starting cmdline python file
+2015-11-25 22:38:09,226 - wc.controller - INFO - WeatherCraft weather state reader and forward to Minecraft server is starting...
+2015-11-25 22:38:09,226 - wc.controller - DEBUG - Argument no  : localport = 8080
+2015-11-25 22:38:09,226 - wc.controller - DEBUG - Argument no  : test = True
+2015-11-25 22:38:09,226 - wc.controller - DEBUG - Argument no  : port = None
+2015-11-25 22:38:09,226 - wc.controller - DEBUG - Argument no  : password = None
+2015-11-25 22:38:09,226 - wc.controller - DEBUG - Argument no  : user = None
+2015-11-25 22:38:09,226 - wc.controller - DEBUG - Argument no  : verbose = True
+2015-11-25 22:38:09,226 - wc.controller - DEBUG - Argument no  : loglevel = debug
+2015-11-25 22:38:09,226 - wc.controller - DEBUG - Argument no  : frequency = 60
+2015-11-25 22:38:09,226 - wc.controller - DEBUG - Argument no  : localip = 127.0.0.1
+2015-11-25 22:38:09,226 - wc.controller - DEBUG - Argument no  : target = 192.168.1.89
+2015-11-25 22:38:09,226 - wc.controller - DEBUG - Argument no  : configfile = wcconfig.ini
+2015-11-25 22:38:09,226 - wc.controller - DEBUG - The target address is: 192.168.1.89
+2015-11-25 22:38:09,226 - wc.controller - DEBUG - The frequency is : 60
+2015-11-25 22:38:09,226 - wc.controller - DEBUG - The target address is: 192.168.1.89
+2015-11-25 22:38:09,226 - wc.controller - DEBUG - The port number is: None
+2015-11-25 22:38:09,226 - wc.controller - INFO - Starting cmdline python file
+2015-11-25 22:39:16,875 - wc.controller - INFO - WeatherCraft weather state reader and forward to Minecraft server is starting...
+2015-11-25 22:39:16,875 - wc.controller - DEBUG - Argument no  : test = True
+2015-11-25 22:39:16,875 - wc.controller - DEBUG - Argument no  : frequency = 60
+2015-11-25 22:39:16,875 - wc.controller - DEBUG - Argument no  : verbose = True
+2015-11-25 22:39:16,875 - wc.controller - DEBUG - Argument no  : password = None
+2015-11-25 22:39:16,875 - wc.controller - DEBUG - Argument no  : localport = 8080
+2015-11-25 22:39:16,875 - wc.controller - DEBUG - Argument no  : user = None
+2015-11-25 22:39:16,875 - wc.controller - DEBUG - Argument no  : target = 192.168.1.89
+2015-11-25 22:39:16,875 - wc.controller - DEBUG - Argument no  : loglevel = debug
+2015-11-25 22:39:16,875 - wc.controller - DEBUG - Argument no  : port = None
+2015-11-25 22:39:16,875 - wc.controller - DEBUG - Argument no  : localip = 127.0.0.1
+2015-11-25 22:39:16,875 - wc.controller - DEBUG - Argument no  : configfile = wcconfig.ini
+2015-11-25 22:39:16,875 - wc.controller - DEBUG - The target address is: 192.168.1.89
+2015-11-25 22:39:16,875 - wc.controller - DEBUG - The frequency is : 60
+2015-11-25 22:39:16,875 - wc.controller - DEBUG - The target address is: 192.168.1.89
+2015-11-25 22:39:16,875 - wc.controller - DEBUG - The port number is: None
+2015-11-25 22:39:16,875 - wc.controller - INFO - Starting cmdline python file
+2015-11-25 22:39:47,011 - wc.controller - INFO - WeatherCraft weather state reader and forward to Minecraft server is starting...
+2015-11-25 22:39:47,011 - wc.controller - DEBUG - Argument no  : localport = 8080
+2015-11-25 22:39:47,011 - wc.controller - DEBUG - Argument no  : loglevel = debug
+2015-11-25 22:39:47,011 - wc.controller - DEBUG - Argument no  : test = True
+2015-11-25 22:39:47,011 - wc.controller - DEBUG - Argument no  : frequency = 60
+2015-11-25 22:39:47,011 - wc.controller - DEBUG - Argument no  : localip = 127.0.0.1
+2015-11-25 22:39:47,011 - wc.controller - DEBUG - Argument no  : configfile = wcconfig.ini
+2015-11-25 22:39:47,011 - wc.controller - DEBUG - Argument no  : user = None
+2015-11-25 22:39:47,011 - wc.controller - DEBUG - Argument no  : password = None
+2015-11-25 22:39:47,011 - wc.controller - DEBUG - Argument no  : verbose = True
+2015-11-25 22:39:47,011 - wc.controller - DEBUG - Argument no  : target = 192.168.1.89
+2015-11-25 22:39:47,011 - wc.controller - DEBUG - Argument no  : port = None
+2015-11-25 22:39:47,011 - wc.controller - DEBUG - The target address is: 192.168.1.89
+2015-11-25 22:39:47,011 - wc.controller - DEBUG - The frequency is : 60
+2015-11-25 22:39:47,011 - wc.controller - DEBUG - The target address is: 192.168.1.89
+2015-11-25 22:39:47,011 - wc.controller - DEBUG - The port number is: None
+2015-11-25 22:39:47,011 - wc.controller - INFO - Starting cmdline python file
+2015-11-25 22:41:30,748 - wc.controller - INFO - WeatherCraft weather state reader and forward to Minecraft server is starting...
+2015-11-25 22:41:30,748 - wc.controller - DEBUG - Argument no  : frequency = 60
+2015-11-25 22:41:30,748 - wc.controller - DEBUG - Argument no  : loglevel = debug
+2015-11-25 22:41:30,748 - wc.controller - DEBUG - Argument no  : configfile = wcconfig.ini
+2015-11-25 22:41:30,748 - wc.controller - DEBUG - Argument no  : localport = 8080
+2015-11-25 22:41:30,748 - wc.controller - DEBUG - Argument no  : localip = 127.0.0.1
+2015-11-25 22:41:30,748 - wc.controller - DEBUG - Argument no  : user = None
+2015-11-25 22:41:30,748 - wc.controller - DEBUG - Argument no  : target = 192.168.1.89
+2015-11-25 22:41:30,748 - wc.controller - DEBUG - Argument no  : password = None
+2015-11-25 22:41:30,748 - wc.controller - DEBUG - Argument no  : verbose = True
+2015-11-25 22:41:30,748 - wc.controller - DEBUG - Argument no  : test = True
+2015-11-25 22:41:30,748 - wc.controller - DEBUG - Argument no  : port = None
+2015-11-25 22:41:30,748 - wc.controller - DEBUG - The target address is: 192.168.1.89
+2015-11-25 22:41:30,748 - wc.controller - DEBUG - The frequency is : 60
+2015-11-25 22:41:30,748 - wc.controller - DEBUG - The target address is: 192.168.1.89
+2015-11-25 22:41:30,748 - wc.controller - DEBUG - The port number is: None
+2015-11-25 22:41:30,748 - wc.controller - INFO - Starting cmdline python file
+2015-11-25 22:42:38,614 - wc.controller - INFO - WeatherCraft weather state reader and forward to Minecraft server is starting...
+2015-11-25 22:42:38,614 - wc.controller - DEBUG - Argument no  : user = None
+2015-11-25 22:42:38,614 - wc.controller - DEBUG - Argument no  : localport = 8080
+2015-11-25 22:42:38,614 - wc.controller - DEBUG - Argument no  : target = 192.168.1.89
+2015-11-25 22:42:38,614 - wc.controller - DEBUG - Argument no  : localip = 127.0.0.1
+2015-11-25 22:42:38,614 - wc.controller - DEBUG - Argument no  : configfile = wcconfig.ini
+2015-11-25 22:42:38,614 - wc.controller - DEBUG - Argument no  : port = None
+2015-11-25 22:42:38,614 - wc.controller - DEBUG - Argument no  : verbose = True
+2015-11-25 22:42:38,614 - wc.controller - DEBUG - Argument no  : frequency = 60
+2015-11-25 22:42:38,614 - wc.controller - DEBUG - Argument no  : test = True
+2015-11-25 22:42:38,614 - wc.controller - DEBUG - Argument no  : loglevel = debug
+2015-11-25 22:42:38,614 - wc.controller - DEBUG - Argument no  : password = None
+2015-11-25 22:42:38,614 - wc.controller - DEBUG - The target address is: 192.168.1.89
+2015-11-25 22:42:38,614 - wc.controller - DEBUG - The frequency is : 60
+2015-11-25 22:42:38,614 - wc.controller - DEBUG - The target address is: 192.168.1.89
+2015-11-25 22:42:38,614 - wc.controller - DEBUG - The port number is: None
+2015-11-25 22:42:38,614 - wc.controller - INFO - Starting cmdline python file
+2015-11-25 22:42:40,274 - wc.controller - DEBUG - Test module - choice 1
+2015-11-25 22:42:42,612 - wc.controller - DEBUG - Test module - choice 2
+2015-11-25 22:42:42,612 - wc.controller - DEBUG - final config user: username
+2015-11-25 22:42:42,612 - wc.controller - DEBUG - final config password: password
+2015-11-25 22:42:42,612 - wc.controller - DEBUG - final config local IP: 127.0.0.1
+2015-11-25 22:42:42,612 - wc.controller - DEBUG - final config local port: 8080
+2015-11-25 22:42:42,612 - wc.controller - DEBUG - final config minecraft target IP: 192.168.1.89
+2015-11-25 22:42:42,612 - wc.controller - DEBUG - final config minecraft port number: 25564
+2015-11-25 22:42:42,612 - wc.controller - DEBUG - final config frequency: 60
+2015-11-25 22:43:41,305 - wc.controller - INFO - WeatherCraft weather state reader and forward to Minecraft server is starting...
+2015-11-25 22:43:41,305 - wc.controller - DEBUG - Argument no  : frequency = 60
+2015-11-25 22:43:41,305 - wc.controller - DEBUG - Argument no  : localport = 8080
+2015-11-25 22:43:41,305 - wc.controller - DEBUG - Argument no  : target = 192.168.1.89
+2015-11-25 22:43:41,305 - wc.controller - DEBUG - Argument no  : verbose = True
+2015-11-25 22:43:41,305 - wc.controller - DEBUG - Argument no  : test = True
+2015-11-25 22:43:41,305 - wc.controller - DEBUG - Argument no  : localip = 127.0.0.1
+2015-11-25 22:43:41,305 - wc.controller - DEBUG - Argument no  : configfile = wcconfig.ini
+2015-11-25 22:43:41,305 - wc.controller - DEBUG - Argument no  : port = None
+2015-11-25 22:43:41,305 - wc.controller - DEBUG - Argument no  : user = None
+2015-11-25 22:43:41,305 - wc.controller - DEBUG - Argument no  : loglevel = debug
+2015-11-25 22:43:41,305 - wc.controller - DEBUG - Argument no  : password = None
+2015-11-25 22:43:41,305 - wc.controller - DEBUG - The target address is: 192.168.1.89
+2015-11-25 22:43:41,305 - wc.controller - DEBUG - The frequency is : 60
+2015-11-25 22:43:41,305 - wc.controller - DEBUG - The target address is: 192.168.1.89
+2015-11-25 22:43:41,305 - wc.controller - DEBUG - The port number is: None
+2015-11-25 22:43:41,305 - wc.controller - INFO - Starting cmdline python file
+2015-11-25 22:43:43,617 - wc.controller - DEBUG - Test module - choice 1
+2015-11-25 22:43:44,565 - wc.controller - DEBUG - Test module - choice 2
+2015-11-25 22:43:45,362 - wc.controller - DEBUG - Test module - choice 1
+2015-11-25 22:43:46,027 - wc.controller - DEBUG - Test module - choice 2
+2015-11-25 22:43:50,487 - wc.controller - DEBUG - Test module - choice 2
+2015-11-25 22:43:54,232 - wc.controller - DEBUG - final config user: username
+2015-11-25 22:43:54,232 - wc.controller - DEBUG - final config password: password
+2015-11-25 22:43:54,232 - wc.controller - DEBUG - final config local IP: 127.0.0.1
+2015-11-25 22:43:54,232 - wc.controller - DEBUG - final config local port: 8080
+2015-11-25 22:43:54,232 - wc.controller - DEBUG - final config minecraft target IP: 192.168.1.89
+2015-11-25 22:43:54,232 - wc.controller - DEBUG - final config minecraft port number: 25564
+2015-11-25 22:43:54,232 - wc.controller - DEBUG - final config frequency: 60
+2015-11-25 23:24:06,204 - wc.controller - INFO - WeatherCraft weather state reader and forward to Minecraft server is starting...
+2015-11-25 23:24:06,220 - wc.controller - DEBUG - Argument no  : test = True
+2015-11-25 23:24:06,220 - wc.controller - DEBUG - Argument no  : password = None
+2015-11-25 23:24:06,220 - wc.controller - DEBUG - Argument no  : localport = 8080
+2015-11-25 23:24:06,220 - wc.controller - DEBUG - Argument no  : configfile = wcconfig.ini
+2015-11-25 23:24:06,220 - wc.controller - DEBUG - Argument no  : localip = 127.0.0.1
+2015-11-25 23:24:06,220 - wc.controller - DEBUG - Argument no  : user = None
+2015-11-25 23:24:06,220 - wc.controller - DEBUG - Argument no  : verbose = True
+2015-11-25 23:24:06,220 - wc.controller - DEBUG - Argument no  : loglevel = debug
+2015-11-25 23:24:06,220 - wc.controller - DEBUG - Argument no  : port = None
+2015-11-25 23:24:06,220 - wc.controller - DEBUG - Argument no  : target = 192.168.1.89
+2015-11-25 23:24:06,220 - wc.controller - DEBUG - Argument no  : frequency = 60
+2015-11-25 23:24:06,220 - wc.controller - DEBUG - The target address is: 192.168.1.89
+2015-11-25 23:24:06,220 - wc.controller - DEBUG - The frequency is : 60
+2015-11-25 23:24:06,220 - wc.controller - DEBUG - The target address is: 192.168.1.89
+2015-11-25 23:24:06,220 - wc.controller - DEBUG - The port number is: None
+2015-11-25 23:24:06,235 - wc.controller - DEBUG - final config user: username
+2015-11-25 23:24:06,235 - wc.controller - DEBUG - final config password: password
+2015-11-25 23:24:06,235 - wc.controller - DEBUG - final config local IP: 127.0.0.1
+2015-11-25 23:24:06,251 - wc.controller - DEBUG - final config local port: 8080
+2015-11-25 23:24:06,251 - wc.controller - DEBUG - final config minecraft target IP: 192.168.1.89
+2015-11-25 23:24:06,251 - wc.controller - DEBUG - final config minecraft port number: 25564
+2015-11-25 23:24:06,251 - wc.controller - DEBUG - final config frequency: 60
+2015-11-25 23:24:51,937 - wc.controller - INFO - WeatherCraft weather state reader and forward to Minecraft server is starting...
+2015-11-25 23:24:51,937 - wc.controller - DEBUG - Argument no  : loglevel = debug
+2015-11-25 23:24:51,937 - wc.controller - DEBUG - Argument no  : localip = 127.0.0.1
+2015-11-25 23:24:51,937 - wc.controller - DEBUG - Argument no  : localport = 8080
+2015-11-25 23:24:51,937 - wc.controller - DEBUG - Argument no  : target = 192.168.1.89
+2015-11-25 23:24:51,937 - wc.controller - DEBUG - Argument no  : password = None
+2015-11-25 23:24:51,937 - wc.controller - DEBUG - Argument no  : user = None
+2015-11-25 23:24:51,937 - wc.controller - DEBUG - Argument no  : frequency = 60
+2015-11-25 23:24:51,937 - wc.controller - DEBUG - Argument no  : port = None
+2015-11-25 23:24:51,937 - wc.controller - DEBUG - Argument no  : configfile = wcconfig.ini
+2015-11-25 23:24:51,937 - wc.controller - DEBUG - Argument no  : test = True
+2015-11-25 23:24:51,937 - wc.controller - DEBUG - Argument no  : verbose = True
+2015-11-25 23:24:51,937 - wc.controller - DEBUG - The target address is: 192.168.1.89
+2015-11-25 23:24:51,937 - wc.controller - DEBUG - The frequency is : 60
+2015-11-25 23:24:51,937 - wc.controller - DEBUG - The target address is: 192.168.1.89
+2015-11-25 23:24:51,937 - wc.controller - DEBUG - The port number is: None
+2015-11-25 23:24:51,937 - wc.controller - DEBUG - final config user: username
+2015-11-25 23:24:51,937 - wc.controller - DEBUG - final config password: password
+2015-11-25 23:24:51,937 - wc.controller - DEBUG - final config local IP: 127.0.0.1
+2015-11-25 23:24:51,937 - wc.controller - DEBUG - final config local port: 8080
+2015-11-25 23:24:51,953 - wc.controller - DEBUG - final config minecraft target IP: 192.168.1.89
+2015-11-25 23:24:51,953 - wc.controller - DEBUG - final config minecraft port number: 25564
+2015-11-25 23:24:51,953 - wc.controller - DEBUG - final config frequency: 60
+2015-11-25 23:24:51,953 - wc.controller - DEBUG - Launching a test with the following parameters: username password 192.168.1.89 25564
+2015-11-25 23:24:51,953 - wc.controller - INFO - Starting cmdline python file
+2015-11-25 23:24:54,148 - wc.controller - DEBUG - Test module - choice 1
+2015-11-25 23:26:20,463 - wc.controller - INFO - WeatherCraft weather state reader and forward to Minecraft server is starting...
+2015-11-25 23:26:20,463 - wc.controller - DEBUG - Argument no  : configfile = wcconfig.ini
+2015-11-25 23:26:20,463 - wc.controller - DEBUG - Argument no  : target = 192.168.1.89
+2015-11-25 23:26:20,463 - wc.controller - DEBUG - Argument no  : localip = 127.0.0.1
+2015-11-25 23:26:20,463 - wc.controller - DEBUG - Argument no  : verbose = True
+2015-11-25 23:26:20,463 - wc.controller - DEBUG - Argument no  : password = None
+2015-11-25 23:26:20,463 - wc.controller - DEBUG - Argument no  : frequency = 60
+2015-11-25 23:26:20,463 - wc.controller - DEBUG - Argument no  : localport = 8080
+2015-11-25 23:26:20,463 - wc.controller - DEBUG - Argument no  : port = None
+2015-11-25 23:26:20,463 - wc.controller - DEBUG - Argument no  : user = None
+2015-11-25 23:26:20,463 - wc.controller - DEBUG - Argument no  : test = True
+2015-11-25 23:26:20,463 - wc.controller - DEBUG - Argument no  : loglevel = debug
+2015-11-25 23:26:20,463 - wc.controller - DEBUG - The target address is: 192.168.1.89
+2015-11-25 23:26:20,463 - wc.controller - DEBUG - The frequency is : 60
+2015-11-25 23:26:20,463 - wc.controller - DEBUG - The target address is: 192.168.1.89
+2015-11-25 23:26:20,463 - wc.controller - DEBUG - The port number is: None
+2015-11-25 23:26:20,463 - wc.controller - DEBUG - final config user: username
+2015-11-25 23:26:20,463 - wc.controller - DEBUG - final config password: password
+2015-11-25 23:26:20,463 - wc.controller - DEBUG - final config local IP: 127.0.0.1
+2015-11-25 23:26:20,463 - wc.controller - DEBUG - final config local port: 8080
+2015-11-25 23:26:20,478 - wc.controller - DEBUG - final config minecraft target IP: 192.168.1.89
+2015-11-25 23:26:20,478 - wc.controller - DEBUG - final config minecraft port number: 25564
+2015-11-25 23:26:20,478 - wc.controller - DEBUG - final config frequency: 60
+2015-11-25 23:26:20,478 - wc.controller - DEBUG - Launching a test with the following parameters: username password 192.168.1.89 25564
+2015-11-25 23:26:20,478 - wc.controller - INFO - Starting cmdline python file
+2015-11-25 23:26:21,760 - wc.controller - DEBUG - Test module - choice 1
+2015-11-25 23:26:21,760 - wc.controller - INFO - Starting rain function in telnetapi
+2015-11-25 23:27:10,420 - wc.controller - INFO - WeatherCraft weather state reader and forward to Minecraft server is starting...
+2015-11-25 23:27:10,420 - wc.controller - DEBUG - Argument no  : localport = 8080
+2015-11-25 23:27:10,420 - wc.controller - DEBUG - Argument no  : test = True
+2015-11-25 23:27:10,420 - wc.controller - DEBUG - Argument no  : localip = 127.0.0.1
+2015-11-25 23:27:10,420 - wc.controller - DEBUG - Argument no  : user = None
+2015-11-25 23:27:10,420 - wc.controller - DEBUG - Argument no  : verbose = True
+2015-11-25 23:27:10,420 - wc.controller - DEBUG - Argument no  : target = 192.168.1.89
+2015-11-25 23:27:10,420 - wc.controller - DEBUG - Argument no  : loglevel = debug
+2015-11-25 23:27:10,420 - wc.controller - DEBUG - Argument no  : frequency = 60
+2015-11-25 23:27:10,420 - wc.controller - DEBUG - Argument no  : configfile = wcconfig.ini
+2015-11-25 23:27:10,420 - wc.controller - DEBUG - Argument no  : port = None
+2015-11-25 23:27:10,420 - wc.controller - DEBUG - Argument no  : password = None
+2015-11-25 23:27:10,420 - wc.controller - DEBUG - The target address is: 192.168.1.89
+2015-11-25 23:27:10,420 - wc.controller - DEBUG - The frequency is : 60
+2015-11-25 23:27:10,420 - wc.controller - DEBUG - The target address is: 192.168.1.89
+2015-11-25 23:27:10,420 - wc.controller - DEBUG - The port number is: None
+2015-11-25 23:27:10,435 - wc.controller - DEBUG - final config user: username
+2015-11-25 23:27:10,435 - wc.controller - DEBUG - final config password: password
+2015-11-25 23:27:10,435 - wc.controller - DEBUG - final config local IP: 127.0.0.1
+2015-11-25 23:27:10,435 - wc.controller - DEBUG - final config local port: 8080
+2015-11-25 23:27:10,435 - wc.controller - DEBUG - final config minecraft target IP: 192.168.1.89
+2015-11-25 23:27:10,435 - wc.controller - DEBUG - final config minecraft port number: 25564
+2015-11-25 23:27:10,435 - wc.controller - DEBUG - final config frequency: 60
+2015-11-25 23:27:10,435 - wc.controller - DEBUG - Launching a test with the following parameters: username password 192.168.1.89 25564
+2015-11-25 23:27:10,435 - wc.controller - INFO - Starting cmdline python file
+2015-11-25 23:27:12,029 - wc.controller - DEBUG - Test module - choice 1
+2015-11-25 23:27:12,029 - wc.controller - INFO - Starting rain function in telnetapi
+2015-11-25 23:27:12,029 - wc.controller - DEBUG - calling telnet with following arguments: username password 192.168.1.89 25564
+2015-11-25 23:31:17,067 - wc.controller - INFO - WeatherCraft weather state reader and forward to Minecraft server is starting...
+2015-11-25 23:31:17,067 - wc.controller - DEBUG - Argument no  : user = None
+2015-11-25 23:31:17,067 - wc.controller - DEBUG - Argument no  : target = 192.168.1.89
+2015-11-25 23:31:17,067 - wc.controller - DEBUG - Argument no  : configfile = wcconfig.ini
+2015-11-25 23:31:17,067 - wc.controller - DEBUG - Argument no  : localport = 8080
+2015-11-25 23:31:17,067 - wc.controller - DEBUG - Argument no  : port = None
+2015-11-25 23:31:17,067 - wc.controller - DEBUG - Argument no  : localip = 127.0.0.1
+2015-11-25 23:31:17,067 - wc.controller - DEBUG - Argument no  : verbose = True
+2015-11-25 23:31:17,067 - wc.controller - DEBUG - Argument no  : loglevel = debug
+2015-11-25 23:31:17,067 - wc.controller - DEBUG - Argument no  : test = True
+2015-11-25 23:31:17,067 - wc.controller - DEBUG - Argument no  : password = None
+2015-11-25 23:31:17,067 - wc.controller - DEBUG - Argument no  : frequency = 60
+2015-11-25 23:31:17,067 - wc.controller - DEBUG - The target address is: 192.168.1.89
+2015-11-25 23:31:17,067 - wc.controller - DEBUG - The frequency is : 60
+2015-11-25 23:31:17,067 - wc.controller - DEBUG - The target address is: 192.168.1.89
+2015-11-25 23:31:17,067 - wc.controller - DEBUG - The port number is: None
+2015-11-25 23:31:17,067 - wc.controller - DEBUG - final config user: username
+2015-11-25 23:31:17,067 - wc.controller - DEBUG - final config password: password
+2015-11-25 23:31:17,067 - wc.controller - DEBUG - final config local IP: 127.0.0.1
+2015-11-25 23:31:17,067 - wc.controller - DEBUG - final config local port: 8080
+2015-11-25 23:31:17,067 - wc.controller - DEBUG - final config minecraft target IP: 192.168.1.89
+2015-11-25 23:31:17,067 - wc.controller - DEBUG - final config minecraft port number: 25564
+2015-11-25 23:31:17,067 - wc.controller - DEBUG - final config frequency: 60
+2015-11-25 23:31:17,067 - wc.controller - DEBUG - Launching a test with the following parameters: username password 192.168.1.89 25564
+2015-11-25 23:31:17,067 - wc.controller - INFO - Starting cmdline python file
+2015-11-25 23:31:18,479 - wc.controller - DEBUG - Test module - choice 1
+2015-11-25 23:31:18,480 - wc.controller - INFO - Starting rain function in telnetapi
+2015-11-25 23:31:18,481 - wc.controller - DEBUG - calling telnet with following arguments: username password 192.168.1.89 25564
+2015-11-25 23:35:37,537 - wc.controller - INFO - WeatherCraft weather state reader and forward to Minecraft server is starting...
+2015-11-25 23:35:37,537 - wc.controller - DEBUG - Argument no  : password = None
+2015-11-25 23:35:37,537 - wc.controller - DEBUG - Argument no  : localip = 127.0.0.1
+2015-11-25 23:35:37,537 - wc.controller - DEBUG - Argument no  : user = None
+2015-11-25 23:35:37,537 - wc.controller - DEBUG - Argument no  : port = None
+2015-11-25 23:35:37,537 - wc.controller - DEBUG - Argument no  : target = 192.168.1.89
+2015-11-25 23:35:37,537 - wc.controller - DEBUG - Argument no  : localport = 8080
+2015-11-25 23:35:37,537 - wc.controller - DEBUG - Argument no  : verbose = True
+2015-11-25 23:35:37,537 - wc.controller - DEBUG - Argument no  : test = True
+2015-11-25 23:35:37,537 - wc.controller - DEBUG - Argument no  : frequency = 60
+2015-11-25 23:35:37,537 - wc.controller - DEBUG - Argument no  : configfile = wcconfig.ini
+2015-11-25 23:35:37,537 - wc.controller - DEBUG - Argument no  : loglevel = debug
+2015-11-25 23:35:37,537 - wc.controller - DEBUG - The target address is: 192.168.1.89
+2015-11-25 23:35:37,537 - wc.controller - DEBUG - The frequency is : 60
+2015-11-25 23:35:37,537 - wc.controller - DEBUG - The target address is: 192.168.1.89
+2015-11-25 23:35:37,537 - wc.controller - DEBUG - The port number is: None
+2015-11-25 23:35:37,537 - wc.controller - DEBUG - final config user: username
+2015-11-25 23:35:37,537 - wc.controller - DEBUG - final config password: password
+2015-11-25 23:35:37,537 - wc.controller - DEBUG - final config local IP: 127.0.0.1
+2015-11-25 23:35:37,537 - wc.controller - DEBUG - final config local port: 8080
+2015-11-25 23:35:37,537 - wc.controller - DEBUG - final config minecraft target IP: 192.168.1.89
+2015-11-25 23:35:37,537 - wc.controller - DEBUG - final config minecraft port number: 25564
+2015-11-25 23:35:37,537 - wc.controller - DEBUG - final config frequency: 60
+2015-11-25 23:35:37,537 - wc.controller - DEBUG - Launching a test with the following parameters: username password 192.168.1.89 25564
+2015-11-25 23:35:37,537 - wc.controller - INFO - Starting cmdline python file
+2015-11-25 23:35:40,823 - wc.controller - DEBUG - Test module - choice 1
+2015-11-25 23:35:40,823 - wc.controller - INFO - Starting rain function in telnetapi
+2015-11-25 23:35:40,823 - wc.controller - DEBUG - calling telnet with following arguments: username password 192.168.1.89 25564
+2015-11-25 23:38:00,817 - wc.controller - INFO - WeatherCraft weather state reader and forward to Minecraft server is starting...
+2015-11-25 23:38:00,817 - wc.controller - DEBUG - Argument no  : target = 192.168.1.89
+2015-11-25 23:38:00,817 - wc.controller - DEBUG - Argument no  : localport = 8080
+2015-11-25 23:38:00,817 - wc.controller - DEBUG - Argument no  : test = True
+2015-11-25 23:38:00,817 - wc.controller - DEBUG - Argument no  : loglevel = debug
+2015-11-25 23:38:00,817 - wc.controller - DEBUG - Argument no  : frequency = 60
+2015-11-25 23:38:00,817 - wc.controller - DEBUG - Argument no  : localip = 127.0.0.1
+2015-11-25 23:38:00,817 - wc.controller - DEBUG - Argument no  : verbose = True
+2015-11-25 23:38:00,817 - wc.controller - DEBUG - Argument no  : password = None
+2015-11-25 23:38:00,817 - wc.controller - DEBUG - Argument no  : user = None
+2015-11-25 23:38:00,817 - wc.controller - DEBUG - Argument no  : port = None
+2015-11-25 23:38:00,817 - wc.controller - DEBUG - Argument no  : configfile = wcconfig.ini
+2015-11-25 23:38:00,817 - wc.controller - DEBUG - The target address is: 192.168.1.89
+2015-11-25 23:38:00,817 - wc.controller - DEBUG - The frequency is : 60
+2015-11-25 23:38:00,817 - wc.controller - DEBUG - The target address is: 192.168.1.89
+2015-11-25 23:38:00,817 - wc.controller - DEBUG - The port number is: None
+2015-11-25 23:38:00,817 - wc.controller - DEBUG - final config user: username
+2015-11-25 23:38:00,817 - wc.controller - DEBUG - final config password: password
+2015-11-25 23:38:00,817 - wc.controller - DEBUG - final config local IP: 127.0.0.1
+2015-11-25 23:38:00,817 - wc.controller - DEBUG - final config local port: 8080
+2015-11-25 23:38:00,817 - wc.controller - DEBUG - final config minecraft target IP: 192.168.1.89
+2015-11-25 23:38:00,817 - wc.controller - DEBUG - final config minecraft port number: 25564
+2015-11-25 23:38:00,817 - wc.controller - DEBUG - final config frequency: 60
+2015-11-25 23:38:00,817 - wc.controller - DEBUG - Launching a test with the following parameters: username password 192.168.1.89 25564
+2015-11-25 23:38:00,817 - wc.controller - INFO - Starting cmdline python file
+2015-11-25 23:38:33,344 - wc.controller - DEBUG - Test module - choice 1
+2015-11-25 23:38:33,344 - wc.controller - INFO - Starting rain function in telnetapi
+2015-11-25 23:38:33,344 - wc.controller - DEBUG - calling telnet with following arguments: username password 192.168.1.89 25564
+2015-11-25 23:39:37,025 - wc.controller - INFO - WeatherCraft weather state reader and forward to Minecraft server is starting...
+2015-11-25 23:39:37,025 - wc.controller - DEBUG - Argument no  : port = None
+2015-11-25 23:39:37,025 - wc.controller - DEBUG - Argument no  : user = None
+2015-11-25 23:39:37,025 - wc.controller - DEBUG - Argument no  : test = True
+2015-11-25 23:39:37,025 - wc.controller - DEBUG - Argument no  : localport = 8080
+2015-11-25 23:39:37,025 - wc.controller - DEBUG - Argument no  : frequency = 60
+2015-11-25 23:39:37,025 - wc.controller - DEBUG - Argument no  : localip = 127.0.0.1
+2015-11-25 23:39:37,025 - wc.controller - DEBUG - Argument no  : target = 192.168.1.89
+2015-11-25 23:39:37,025 - wc.controller - DEBUG - Argument no  : verbose = True
+2015-11-25 23:39:37,025 - wc.controller - DEBUG - Argument no  : loglevel = debug
+2015-11-25 23:39:37,025 - wc.controller - DEBUG - Argument no  : password = None
+2015-11-25 23:39:37,025 - wc.controller - DEBUG - Argument no  : configfile = wcconfig.ini
+2015-11-25 23:39:37,025 - wc.controller - DEBUG - The target address is: 192.168.1.89
+2015-11-25 23:39:37,025 - wc.controller - DEBUG - The frequency is : 60
+2015-11-25 23:39:37,025 - wc.controller - DEBUG - The target address is: 192.168.1.89
+2015-11-25 23:39:37,025 - wc.controller - DEBUG - The port number is: None
+2015-11-25 23:39:37,025 - wc.controller - DEBUG - final config user: username
+2015-11-25 23:39:37,025 - wc.controller - DEBUG - final config password: password
+2015-11-25 23:39:37,025 - wc.controller - DEBUG - final config local IP: 127.0.0.1
+2015-11-25 23:39:37,025 - wc.controller - DEBUG - final config local port: 8080
+2015-11-25 23:39:37,025 - wc.controller - DEBUG - final config minecraft target IP: 192.168.1.89
+2015-11-25 23:39:37,025 - wc.controller - DEBUG - final config minecraft port number: 25564
+2015-11-25 23:39:37,025 - wc.controller - DEBUG - final config frequency: 60
+2015-11-25 23:39:37,025 - wc.controller - DEBUG - Launching a test with the following parameters: username password 192.168.1.89 25564
+2015-11-25 23:39:37,025 - wc.controller - INFO - Starting cmdline python file
+2015-11-25 23:39:38,678 - wc.controller - DEBUG - Test module - choice 2
+2015-11-25 23:39:38,678 - wc.controller - INFO - Starting sun function in telnetapi
+2015-11-25 23:39:38,678 - wc.controller - DEBUG - calling telnet with following arguments: username password 192.168.1.89 25564
+2015-11-25 23:42:57,494 - wc.controller - INFO - WeatherCraft weather state reader and forward to Minecraft server is starting...
+2015-11-25 23:42:57,510 - wc.controller - DEBUG - Argument no  : loglevel = debug
+2015-11-25 23:42:57,510 - wc.controller - DEBUG - Argument no  : password = None
+2015-11-25 23:42:57,510 - wc.controller - DEBUG - Argument no  : verbose = True
+2015-11-25 23:42:57,510 - wc.controller - DEBUG - Argument no  : localip = 127.0.0.1
+2015-11-25 23:42:57,510 - wc.controller - DEBUG - Argument no  : port = None
+2015-11-25 23:42:57,510 - wc.controller - DEBUG - Argument no  : frequency = 60
+2015-11-25 23:42:57,510 - wc.controller - DEBUG - Argument no  : user = None
+2015-11-25 23:42:57,510 - wc.controller - DEBUG - Argument no  : configfile = wcconfig.ini
+2015-11-25 23:42:57,510 - wc.controller - DEBUG - Argument no  : test = True
+2015-11-25 23:42:57,510 - wc.controller - DEBUG - Argument no  : localport = 8080
+2015-11-25 23:42:57,510 - wc.controller - DEBUG - Argument no  : target = 192.168.1.89
+2015-11-25 23:42:57,510 - wc.controller - DEBUG - The target address is: 192.168.1.89
+2015-11-25 23:42:57,510 - wc.controller - DEBUG - The frequency is : 60
+2015-11-25 23:42:57,510 - wc.controller - DEBUG - The target address is: 192.168.1.89
+2015-11-25 23:42:57,526 - wc.controller - DEBUG - The port number is: None
+2015-11-25 23:42:57,526 - wc.controller - DEBUG - final config user: username
+2015-11-25 23:42:57,526 - wc.controller - DEBUG - final config password: password
+2015-11-25 23:42:57,526 - wc.controller - DEBUG - final config local IP: 127.0.0.1
+2015-11-25 23:42:57,526 - wc.controller - DEBUG - final config local port: 8080
+2015-11-25 23:42:57,526 - wc.controller - DEBUG - final config minecraft target IP: 192.168.1.89
+2015-11-25 23:42:57,526 - wc.controller - DEBUG - final config minecraft port number: 25564
+2015-11-25 23:42:57,526 - wc.controller - DEBUG - final config frequency: 60
+2015-11-25 23:42:57,526 - wc.controller - DEBUG - Launching a test with the following parameters: username password 192.168.1.89 25564
+2015-11-25 23:42:57,526 - wc.controller - INFO - Starting cmdline python file
+2015-11-25 23:42:59,073 - wc.controller - DEBUG - Test module - choice 1
+2015-11-25 23:42:59,073 - wc.controller - INFO - Starting rain function in telnetapi
+2015-11-25 23:42:59,073 - wc.controller - DEBUG - calling telnet with following arguments: username password 192.168.1.89 25564
+2015-11-25 23:57:38,679 - wc.controller - INFO - WeatherCraft weather state reader and forward to Minecraft server is starting...
+2015-11-25 23:57:38,679 - wc.controller - DEBUG - Argument no  : password = None
+2015-11-25 23:57:38,679 - wc.controller - DEBUG - Argument no  : target = 192.168.1.89
+2015-11-25 23:57:38,679 - wc.controller - DEBUG - Argument no  : localport = 8080
+2015-11-25 23:57:38,679 - wc.controller - DEBUG - Argument no  : verbose = True
+2015-11-25 23:57:38,679 - wc.controller - DEBUG - Argument no  : frequency = 60
+2015-11-25 23:57:38,679 - wc.controller - DEBUG - Argument no  : configfile = wcconfig.ini
+2015-11-25 23:57:38,679 - wc.controller - DEBUG - Argument no  : localip = 127.0.0.1
+2015-11-25 23:57:38,679 - wc.controller - DEBUG - Argument no  : loglevel = debug
+2015-11-25 23:57:38,679 - wc.controller - DEBUG - Argument no  : test = True
+2015-11-25 23:57:38,679 - wc.controller - DEBUG - Argument no  : user = None
+2015-11-25 23:57:38,679 - wc.controller - DEBUG - Argument no  : port = None
+2015-11-25 23:57:38,694 - wc.controller - DEBUG - The target address is: 192.168.1.89
+2015-11-25 23:57:38,694 - wc.controller - DEBUG - The frequency is : 60
+2015-11-25 23:57:38,694 - wc.controller - DEBUG - The target address is: 192.168.1.89
+2015-11-25 23:57:38,694 - wc.controller - DEBUG - The port number is: None
+2015-11-25 23:57:38,694 - wc.controller - DEBUG - final config user: username
+2015-11-25 23:57:38,694 - wc.controller - DEBUG - final config password: password
+2015-11-25 23:57:38,694 - wc.controller - DEBUG - final config local IP: 127.0.0.1
+2015-11-25 23:57:38,694 - wc.controller - DEBUG - final config local port: 8080
+2015-11-25 23:57:38,694 - wc.controller - DEBUG - final config minecraft target IP: 192.168.1.89
+2015-11-25 23:57:38,694 - wc.controller - DEBUG - final config minecraft port number: 25564
+2015-11-25 23:57:38,694 - wc.controller - DEBUG - final config frequency: 60
+2015-11-25 23:57:38,694 - wc.controller - DEBUG - Launching a test with the following parameters: username password 192.168.1.89 25564
+2015-11-25 23:57:38,694 - wc.controller - INFO - Starting cmdline python file
+2015-11-25 23:57:40,416 - wc.controller - DEBUG - Test module - choice 1
+2015-11-25 23:57:40,416 - wc.controller - INFO - Starting rain function in telnetapi
+2015-11-25 23:57:40,416 - wc.controller - DEBUG - calling telnet with following arguments: username password 192.168.1.89 25564
+2015-11-26 23:03:57,290 - wc.controller - INFO - WeatherCraft weather state reader and forward to Minecraft server is starting...
+2015-11-26 23:03:57,290 - wc.controller - DEBUG - Argument no  : localip = 127.0.0.1
+2015-11-26 23:03:57,290 - wc.controller - DEBUG - Argument no  : localport = 8080
+2015-11-26 23:03:57,290 - wc.controller - DEBUG - Argument no  : test = True
+2015-11-26 23:03:57,290 - wc.controller - DEBUG - Argument no  : verbose = True
+2015-11-26 23:03:57,290 - wc.controller - DEBUG - Argument no  : frequency = 60
+2015-11-26 23:03:57,290 - wc.controller - DEBUG - Argument no  : user = None
+2015-11-26 23:03:57,290 - wc.controller - DEBUG - Argument no  : password = None
+2015-11-26 23:03:57,290 - wc.controller - DEBUG - Argument no  : loglevel = debug
+2015-11-26 23:03:57,290 - wc.controller - DEBUG - Argument no  : target = 192.168.1.89
+2015-11-26 23:03:57,290 - wc.controller - DEBUG - Argument no  : configfile = wcconfig.ini
+2015-11-26 23:03:57,290 - wc.controller - DEBUG - Argument no  : port = None
+2015-11-26 23:03:57,306 - wc.controller - DEBUG - The target address is: 192.168.1.89
+2015-11-26 23:03:57,306 - wc.controller - DEBUG - The frequency is : 60
+2015-11-26 23:03:57,306 - wc.controller - DEBUG - The target address is: 192.168.1.89
+2015-11-26 23:03:57,306 - wc.controller - DEBUG - The port number is: None
+2015-11-26 23:03:57,541 - wc.controller - DEBUG - final config user: username
+2015-11-26 23:03:57,541 - wc.controller - DEBUG - final config password: password
+2015-11-26 23:03:57,541 - wc.controller - DEBUG - final config local IP: 127.0.0.1
+2015-11-26 23:03:57,541 - wc.controller - DEBUG - final config local port: 8080
+2015-11-26 23:03:57,541 - wc.controller - DEBUG - final config minecraft target IP: 192.168.1.89
+2015-11-26 23:03:57,541 - wc.controller - DEBUG - final config minecraft port number: 25564
+2015-11-26 23:03:57,541 - wc.controller - DEBUG - final config frequency: 60
+2015-11-26 23:03:57,541 - wc.controller - DEBUG - Launching a test with the following parameters: username password 192.168.1.89 25564
+2015-11-26 23:03:57,541 - wc.controller - INFO - Starting cmdline python file
+2015-11-26 23:04:49,744 - wc.controller - DEBUG - Test module - choice 1
+2015-11-26 23:04:49,744 - wc.controller - INFO - Starting rain function in telnetapi
+2015-11-26 23:04:49,744 - wc.controller - DEBUG - calling telnet with following arguments: username password 192.168.1.89 25564
+2015-11-26 23:13:27,413 - wc.controller - INFO - WeatherCraft weather state reader and forward to Minecraft server is starting...
+2015-11-26 23:13:27,413 - wc.controller - DEBUG - Argument no  : port = None
+2015-11-26 23:13:27,413 - wc.controller - DEBUG - Argument no  : loglevel = debug
+2015-11-26 23:13:27,413 - wc.controller - DEBUG - Argument no  : target = 192.168.1.89
+2015-11-26 23:13:27,413 - wc.controller - DEBUG - Argument no  : test = True
+2015-11-26 23:13:27,413 - wc.controller - DEBUG - Argument no  : verbose = True
+2015-11-26 23:13:27,413 - wc.controller - DEBUG - Argument no  : configfile = wcconfig.ini
+2015-11-26 23:13:27,413 - wc.controller - DEBUG - Argument no  : frequency = 60
+2015-11-26 23:13:27,413 - wc.controller - DEBUG - Argument no  : localport = 8080
+2015-11-26 23:13:27,413 - wc.controller - DEBUG - Argument no  : localip = 127.0.0.1
+2015-11-26 23:13:27,429 - wc.controller - DEBUG - Argument no  : password = None
+2015-11-26 23:13:27,429 - wc.controller - DEBUG - Argument no  : user = None
+2015-11-26 23:13:27,429 - wc.controller - DEBUG - The target address is: 192.168.1.89
+2015-11-26 23:13:27,429 - wc.controller - DEBUG - The frequency is : 60
+2015-11-26 23:13:27,429 - wc.controller - DEBUG - The target address is: 192.168.1.89
+2015-11-26 23:13:27,429 - wc.controller - DEBUG - The port number is: None
+2015-11-26 23:13:27,429 - wc.controller - DEBUG - final config user: username
+2015-11-26 23:13:27,429 - wc.controller - DEBUG - final config password: password
+2015-11-26 23:13:27,429 - wc.controller - DEBUG - final config local IP: 127.0.0.1
+2015-11-26 23:13:27,429 - wc.controller - DEBUG - final config local port: 8080
+2015-11-26 23:13:27,429 - wc.controller - DEBUG - final config minecraft target IP: 192.168.1.89
+2015-11-26 23:13:27,445 - wc.controller - DEBUG - final config minecraft port number: 25564
+2015-11-26 23:13:27,445 - wc.controller - DEBUG - final config frequency: 60
+2015-11-26 23:13:27,445 - wc.controller - DEBUG - Launching a test with the following parameters: username password 192.168.1.89 25564
+2015-11-26 23:13:27,445 - wc.controller - INFO - Starting cmdline python file
+2015-11-26 23:13:29,559 - wc.controller - DEBUG - Test module - choice 1
+2015-11-26 23:13:29,575 - wc.controller - INFO - Starting rain function in telnetapi
+2015-11-26 23:13:29,575 - wc.controller - DEBUG - calling telnet with following arguments: username password 192.168.1.89 25564
+2015-11-26 23:14:33,419 - wc.controller - INFO - WeatherCraft weather state reader and forward to Minecraft server is starting...
+2015-11-26 23:14:33,419 - wc.controller - DEBUG - Argument no  : frequency = 60
+2015-11-26 23:14:33,419 - wc.controller - DEBUG - Argument no  : password = None
+2015-11-26 23:14:33,419 - wc.controller - DEBUG - Argument no  : target = 192.168.1.89
+2015-11-26 23:14:33,419 - wc.controller - DEBUG - Argument no  : verbose = True
+2015-11-26 23:14:33,419 - wc.controller - DEBUG - Argument no  : localport = 8080
+2015-11-26 23:14:33,419 - wc.controller - DEBUG - Argument no  : localip = 127.0.0.1
+2015-11-26 23:14:33,419 - wc.controller - DEBUG - Argument no  : user = None
+2015-11-26 23:14:33,419 - wc.controller - DEBUG - Argument no  : loglevel = debug
+2015-11-26 23:14:33,419 - wc.controller - DEBUG - Argument no  : port = None
+2015-11-26 23:14:33,419 - wc.controller - DEBUG - Argument no  : test = True
+2015-11-26 23:14:33,419 - wc.controller - DEBUG - Argument no  : configfile = wcconfig.ini
+2015-11-26 23:14:33,419 - wc.controller - DEBUG - The target address is: 192.168.1.89
+2015-11-26 23:14:33,419 - wc.controller - DEBUG - The frequency is : 60
+2015-11-26 23:14:33,419 - wc.controller - DEBUG - The target address is: 192.168.1.89
+2015-11-26 23:14:33,419 - wc.controller - DEBUG - The port number is: None
+2015-11-26 23:14:33,419 - wc.controller - DEBUG - final config user: username
+2015-11-26 23:14:33,419 - wc.controller - DEBUG - final config password: password
+2015-11-26 23:14:33,435 - wc.controller - DEBUG - final config local IP: 127.0.0.1
+2015-11-26 23:14:33,435 - wc.controller - DEBUG - final config local port: 8080
+2015-11-26 23:14:33,435 - wc.controller - DEBUG - final config minecraft target IP: 192.168.1.89
+2015-11-26 23:14:33,435 - wc.controller - DEBUG - final config minecraft port number: 25565
+2015-11-26 23:14:33,435 - wc.controller - DEBUG - final config frequency: 60
+2015-11-26 23:14:33,435 - wc.controller - DEBUG - Launching a test with the following parameters: username password 192.168.1.89 25565
+2015-11-26 23:14:33,435 - wc.controller - INFO - Starting cmdline python file
+2015-11-26 23:14:34,977 - wc.controller - DEBUG - Test module - choice 1
+2015-11-26 23:14:34,977 - wc.controller - INFO - Starting rain function in telnetapi
+2015-11-26 23:14:34,977 - wc.controller - DEBUG - calling telnet with following arguments: username password 192.168.1.89 25565
+2015-11-26 23:22:52,059 - wc.controller - INFO - WeatherCraft weather state reader and forward to Minecraft server is starting...
+2015-11-26 23:22:52,059 - wc.controller - DEBUG - Argument no  : target = 192.168.1.89
+2015-11-26 23:22:52,074 - wc.controller - DEBUG - Argument no  : user = None
+2015-11-26 23:22:52,074 - wc.controller - DEBUG - Argument no  : verbose = True
+2015-11-26 23:22:52,074 - wc.controller - DEBUG - Argument no  : localport = 8080
+2015-11-26 23:22:52,074 - wc.controller - DEBUG - Argument no  : port = None
+2015-11-26 23:22:52,074 - wc.controller - DEBUG - Argument no  : password = None
+2015-11-26 23:22:52,074 - wc.controller - DEBUG - Argument no  : localip = 127.0.0.1
+2015-11-26 23:22:52,074 - wc.controller - DEBUG - Argument no  : loglevel = debug
+2015-11-26 23:22:52,090 - wc.controller - DEBUG - Argument no  : test = True
+2015-11-26 23:22:52,090 - wc.controller - DEBUG - Argument no  : frequency = 60
+2015-11-26 23:22:52,090 - wc.controller - DEBUG - Argument no  : configfile = wcconfig.ini
+2015-11-26 23:22:52,090 - wc.controller - DEBUG - The target address is: 192.168.1.89
+2015-11-26 23:22:52,090 - wc.controller - DEBUG - The frequency is : 60
+2015-11-26 23:22:52,090 - wc.controller - DEBUG - The target address is: 192.168.1.89
+2015-11-26 23:22:52,106 - wc.controller - DEBUG - The port number is: None
+2015-11-26 23:22:52,106 - wc.controller - DEBUG - final config user: username
+2015-11-26 23:22:52,106 - wc.controller - DEBUG - final config password: password
+2015-11-26 23:22:52,106 - wc.controller - DEBUG - final config local IP: 127.0.0.1
+2015-11-26 23:22:52,106 - wc.controller - DEBUG - final config local port: 8080
+2015-11-26 23:22:52,106 - wc.controller - DEBUG - final config minecraft target IP: 192.168.1.89
+2015-11-26 23:22:52,121 - wc.controller - DEBUG - final config minecraft port number: 25565
+2015-11-26 23:22:52,121 - wc.controller - DEBUG - final config frequency: 60
+2015-11-26 23:22:52,121 - wc.controller - DEBUG - Launching a test with the following parameters: username password 192.168.1.89 25565
+2015-11-26 23:22:52,121 - wc.controller - INFO - Starting cmdline python file
+2015-11-26 23:22:53,579 - wc.controller - DEBUG - Test module - choice 1
+2015-11-26 23:22:53,579 - wc.controller - INFO - Starting rain function in telnetapi
+2015-11-26 23:22:53,579 - wc.controller - DEBUG - calling telnet with following arguments: username password 192.168.1.89 25565
+2015-11-26 23:26:04,169 - wc.controller - INFO - WeatherCraft weather state reader and forward to Minecraft server is starting...
+2015-11-26 23:26:04,169 - wc.controller - DEBUG - Argument no  : target = 192.168.1.89
+2015-11-26 23:26:04,185 - wc.controller - DEBUG - Argument no  : frequency = 60
+2015-11-26 23:26:04,185 - wc.controller - DEBUG - Argument no  : verbose = True
+2015-11-26 23:26:04,185 - wc.controller - DEBUG - Argument no  : port = None
+2015-11-26 23:26:04,185 - wc.controller - DEBUG - Argument no  : user = None
+2015-11-26 23:26:04,185 - wc.controller - DEBUG - Argument no  : password = None
+2015-11-26 23:26:04,185 - wc.controller - DEBUG - Argument no  : test = True
+2015-11-26 23:26:04,185 - wc.controller - DEBUG - Argument no  : configfile = wcconfig.ini
+2015-11-26 23:26:04,185 - wc.controller - DEBUG - Argument no  : localport = 8080
+2015-11-26 23:26:04,200 - wc.controller - DEBUG - Argument no  : localip = 127.0.0.1
+2015-11-26 23:26:04,200 - wc.controller - DEBUG - Argument no  : loglevel = debug
+2015-11-26 23:26:04,200 - wc.controller - DEBUG - The target address is: 192.168.1.89
+2015-11-26 23:26:04,200 - wc.controller - DEBUG - The frequency is : 60
+2015-11-26 23:26:04,200 - wc.controller - DEBUG - The target address is: 192.168.1.89
+2015-11-26 23:26:04,200 - wc.controller - DEBUG - The port number is: None
+2015-11-26 23:26:04,216 - wc.controller - DEBUG - final config user: username
+2015-11-26 23:26:04,216 - wc.controller - DEBUG - final config password: password
+2015-11-26 23:26:04,216 - wc.controller - DEBUG - final config local IP: 127.0.0.1
+2015-11-26 23:26:04,216 - wc.controller - DEBUG - final config local port: 8080
+2015-11-26 23:26:04,216 - wc.controller - DEBUG - final config minecraft target IP: 192.168.1.89
+2015-11-26 23:26:04,216 - wc.controller - DEBUG - final config minecraft port number: 25565
+2015-11-26 23:26:04,216 - wc.controller - DEBUG - final config frequency: 60
+2015-11-26 23:26:04,216 - wc.controller - DEBUG - Launching a test with the following parameters: username password 192.168.1.89 25565
+2015-11-26 23:26:04,233 - wc.controller - INFO - Starting cmdline python file
+2015-11-26 23:26:05,657 - wc.controller - DEBUG - Test module - choice 1
+2015-11-26 23:26:05,657 - wc.controller - INFO - Starting rain function in telnetapi
+2015-11-26 23:26:05,657 - wc.controller - DEBUG - calling telnet with following arguments: username password 192.168.1.89 25565
+2015-11-26 23:26:05,719 - wc.controller - DEBUG - closing telnet
+2015-11-26 23:26:18,702 - wc.controller - DEBUG - Test module - choice 2
+2015-11-26 23:26:18,702 - wc.controller - INFO - Starting sun function in telnetapi
+2015-11-26 23:26:18,702 - wc.controller - DEBUG - calling telnet with following arguments: username password 192.168.1.89 25565
+2015-11-26 23:26:18,920 - wc.controller - DEBUG - closing telnet
+2015-11-26 23:27:16,250 - wc.controller - DEBUG - Test module - choice 1
+2015-11-26 23:27:16,250 - wc.controller - INFO - Starting rain function in telnetapi
+2015-11-26 23:27:16,266 - wc.controller - DEBUG - calling telnet with following arguments: username password 192.168.1.89 25565
+2015-11-26 23:27:16,370 - wc.controller - DEBUG - closing telnet
+2015-11-26 23:27:32,461 - wc.controller - DEBUG - Test module - choice 2
+2015-11-26 23:27:32,461 - wc.controller - INFO - Starting sun function in telnetapi
+2015-11-26 23:27:32,461 - wc.controller - DEBUG - calling telnet with following arguments: username password 192.168.1.89 25565
+2015-11-26 23:27:32,539 - wc.controller - DEBUG - closing telnet
+2015-11-26 23:27:36,008 - wc.controller - DEBUG - Test module - choice 3
+2015-11-26 23:27:36,008 - wc.controller - INFO - Starting day function in telnetapi
+2015-11-26 23:27:36,008 - wc.controller - DEBUG - calling telnet with following arguments: username password 192.168.1.89 25565
+2015-11-26 23:27:36,226 - wc.controller - DEBUG - closing telnet
+2015-11-26 23:27:45,455 - wc.controller - DEBUG - Test module - choice 4
+2015-11-26 23:27:45,455 - wc.controller - INFO - Starting night function in telnetapi
+2015-11-26 23:27:45,455 - wc.controller - DEBUG - calling telnet with following arguments: username password 192.168.1.89 25565
+2015-11-26 23:27:45,549 - wc.controller - DEBUG - closing telnet
+2015-11-26 23:28:09,275 - wc.controller - INFO - WeatherCraft weather state reader and forward to Minecraft server is starting...
+2015-11-26 23:28:09,275 - wc.controller - DEBUG - Argument no  : target = 192.168.1.89
+2015-11-26 23:28:09,290 - wc.controller - DEBUG - Argument no  : port = None
+2015-11-26 23:28:09,290 - wc.controller - DEBUG - Argument no  : localport = 8080
+2015-11-26 23:28:09,290 - wc.controller - DEBUG - Argument no  : loglevel = debug
+2015-11-26 23:28:09,290 - wc.controller - DEBUG - Argument no  : verbose = True
+2015-11-26 23:28:09,290 - wc.controller - DEBUG - Argument no  : frequency = 60
+2015-11-26 23:28:09,290 - wc.controller - DEBUG - Argument no  : user = None
+2015-11-26 23:28:09,290 - wc.controller - DEBUG - Argument no  : configfile = wcconfig.ini
+2015-11-26 23:28:09,306 - wc.controller - DEBUG - Argument no  : password = None
+2015-11-26 23:28:09,306 - wc.controller - DEBUG - Argument no  : test = True
+2015-11-26 23:28:09,306 - wc.controller - DEBUG - Argument no  : localip = 127.0.0.1
+2015-11-26 23:28:09,306 - wc.controller - DEBUG - The target address is: 192.168.1.89
+2015-11-26 23:28:09,306 - wc.controller - DEBUG - The frequency is : 60
+2015-11-26 23:28:09,306 - wc.controller - DEBUG - The target address is: 192.168.1.89
+2015-11-26 23:28:09,306 - wc.controller - DEBUG - The port number is: None
+2015-11-26 23:28:09,321 - wc.controller - DEBUG - final config user: username
+2015-11-26 23:28:09,321 - wc.controller - DEBUG - final config password: password
+2015-11-26 23:28:09,321 - wc.controller - DEBUG - final config local IP: 127.0.0.1
+2015-11-26 23:28:09,321 - wc.controller - DEBUG - final config local port: 8080
+2015-11-26 23:28:09,321 - wc.controller - DEBUG - final config minecraft target IP: 192.168.1.89
+2015-11-26 23:28:09,321 - wc.controller - DEBUG - final config minecraft port number: 25565
+2015-11-26 23:28:09,321 - wc.controller - DEBUG - final config frequency: 60
+2015-11-26 23:28:09,337 - wc.controller - DEBUG - Launching a test with the following parameters: username password 192.168.1.89 25565
+2015-11-26 23:28:09,337 - wc.controller - INFO - Starting cmdline python file
+2015-11-26 23:28:11,560 - wc.controller - DEBUG - Test module - choice 1
+2015-11-26 23:28:11,560 - wc.controller - INFO - Starting rain function in telnetapi
+2015-11-26 23:28:11,560 - wc.controller - DEBUG - calling telnet with following arguments: username password 192.168.1.89 25565
+2015-11-26 23:28:11,669 - wc.controller - DEBUG - closing telnet
+2015-11-26 23:30:59,511 - wc.controller - DEBUG - Test module - choice 1
+2015-11-26 23:30:59,511 - wc.controller - INFO - Starting rain function in telnetapi
+2015-11-26 23:30:59,511 - wc.controller - DEBUG - calling telnet with following arguments: username password 192.168.1.89 25565
+2015-11-26 23:30:59,604 - wc.controller - DEBUG - closing telnet
+2015-11-26 23:31:16,052 - wc.controller - DEBUG - Test module - choice 1
+2015-11-26 23:31:16,052 - wc.controller - INFO - Starting rain function in telnetapi
+2015-11-26 23:31:16,052 - wc.controller - DEBUG - calling telnet with following arguments: username password 192.168.1.89 25565
+2015-11-26 23:31:16,052 - wc.controller - DEBUG - closing telnet
+2015-11-26 23:32:27,065 - wc.controller - DEBUG - Test module - choice 1
+2015-11-26 23:32:27,065 - wc.controller - INFO - Starting rain function in telnetapi
+2015-11-26 23:32:27,065 - wc.controller - DEBUG - calling telnet with following arguments: username password 192.168.1.89 25565
+2015-11-26 23:32:27,144 - wc.controller - DEBUG - closing telnet
+2015-11-26 23:32:37,585 - wc.controller - INFO - WeatherCraft weather state reader and forward to Minecraft server is starting...
+2015-11-26 23:32:37,585 - wc.controller - DEBUG - Argument no  : test = True
+2015-11-26 23:32:37,585 - wc.controller - DEBUG - Argument no  : port = None
+2015-11-26 23:32:37,585 - wc.controller - DEBUG - Argument no  : verbose = True
+2015-11-26 23:32:37,585 - wc.controller - DEBUG - Argument no  : frequency = 60
+2015-11-26 23:32:37,585 - wc.controller - DEBUG - Argument no  : loglevel = debug
+2015-11-26 23:32:37,585 - wc.controller - DEBUG - Argument no  : target = 192.168.1.89
+2015-11-26 23:32:37,600 - wc.controller - DEBUG - Argument no  : configfile = wcconfig.ini
+2015-11-26 23:32:37,600 - wc.controller - DEBUG - Argument no  : password = None
+2015-11-26 23:32:37,600 - wc.controller - DEBUG - Argument no  : user = None
+2015-11-26 23:32:37,600 - wc.controller - DEBUG - Argument no  : localip = 127.0.0.1
+2015-11-26 23:32:37,600 - wc.controller - DEBUG - Argument no  : localport = 8080
+2015-11-26 23:32:37,600 - wc.controller - DEBUG - The target address is: 192.168.1.89
+2015-11-26 23:32:37,600 - wc.controller - DEBUG - The frequency is : 60
+2015-11-26 23:32:37,600 - wc.controller - DEBUG - The target address is: 192.168.1.89
+2015-11-26 23:32:37,600 - wc.controller - DEBUG - The port number is: None
+2015-11-26 23:32:37,600 - wc.controller - DEBUG - final config user: username
+2015-11-26 23:32:37,600 - wc.controller - DEBUG - final config password: password
+2015-11-26 23:32:37,600 - wc.controller - DEBUG - final config local IP: 127.0.0.1
+2015-11-26 23:32:37,600 - wc.controller - DEBUG - final config local port: 8080
+2015-11-26 23:32:37,600 - wc.controller - DEBUG - final config minecraft target IP: 192.168.1.89
+2015-11-26 23:32:37,600 - wc.controller - DEBUG - final config minecraft port number: 25565
+2015-11-26 23:32:37,600 - wc.controller - DEBUG - final config frequency: 60
+2015-11-26 23:32:37,600 - wc.controller - DEBUG - Launching a test with the following parameters: username password 192.168.1.89 25565
+2015-11-26 23:32:37,600 - wc.controller - INFO - Starting cmdline python file
+2015-11-26 23:33:05,426 - wc.controller - DEBUG - Test module - choice 1
+2015-11-26 23:33:05,426 - wc.controller - INFO - Starting rain function in telnetapi
+2015-11-26 23:33:05,426 - wc.controller - DEBUG - calling telnet with following arguments: username password 192.168.1.89 25565
+2015-11-26 23:33:05,442 - wc.controller - DEBUG - closing telnet
+2015-11-26 23:33:10,530 - wc.controller - DEBUG - Test module - choice 1
+2015-11-26 23:33:10,530 - wc.controller - INFO - Starting rain function in telnetapi
+2015-11-26 23:33:10,530 - wc.controller - DEBUG - calling telnet with following arguments: username password 192.168.1.89 25565
+2015-11-26 23:33:10,530 - wc.controller - DEBUG - closing telnet
+2015-11-26 23:36:41,685 - wc.controller - INFO - WeatherCraft weather state reader and forward to Minecraft server is starting...
+2015-11-26 23:36:41,685 - wc.controller - DEBUG - Argument no  : localip = 127.0.0.1
+2015-11-26 23:36:41,685 - wc.controller - DEBUG - Argument no  : target = 192.168.1.89
+2015-11-26 23:36:41,685 - wc.controller - DEBUG - Argument no  : port = None
+2015-11-26 23:36:41,685 - wc.controller - DEBUG - Argument no  : localport = 8080
+2015-11-26 23:36:41,701 - wc.controller - DEBUG - Argument no  : loglevel = debug
+2015-11-26 23:36:41,701 - wc.controller - DEBUG - Argument no  : verbose = True
+2015-11-26 23:36:41,701 - wc.controller - DEBUG - Argument no  : password = None
+2015-11-26 23:36:41,701 - wc.controller - DEBUG - Argument no  : frequency = 60
+2015-11-26 23:36:41,701 - wc.controller - DEBUG - Argument no  : user = None
+2015-11-26 23:36:41,701 - wc.controller - DEBUG - Argument no  : test = True
+2015-11-26 23:36:41,701 - wc.controller - DEBUG - Argument no  : configfile = wcconfig.ini
+2015-11-26 23:36:41,701 - wc.controller - DEBUG - The target address is: 192.168.1.89
+2015-11-26 23:36:41,701 - wc.controller - DEBUG - The frequency is : 60
+2015-11-26 23:36:41,701 - wc.controller - DEBUG - The target address is: 192.168.1.89
+2015-11-26 23:36:41,701 - wc.controller - DEBUG - The port number is: None
+2015-11-26 23:36:41,705 - wc.controller - DEBUG - final config user: username
+2015-11-26 23:36:41,705 - wc.controller - DEBUG - final config password: password
+2015-11-26 23:36:41,706 - wc.controller - DEBUG - final config local IP: 127.0.0.1
+2015-11-26 23:36:41,706 - wc.controller - DEBUG - final config local port: 8080
+2015-11-26 23:36:41,706 - wc.controller - DEBUG - final config minecraft target IP: 192.168.1.89
+2015-11-26 23:36:41,706 - wc.controller - DEBUG - final config minecraft port number: 25565
+2015-11-26 23:36:41,706 - wc.controller - DEBUG - final config frequency: 60
+2015-11-26 23:36:41,706 - wc.controller - DEBUG - Launching a test with the following parameters: username password 192.168.1.89 25565
+2015-11-26 23:36:41,706 - wc.controller - INFO - Starting cmdline python file
+2015-11-26 23:36:44,019 - wc.controller - DEBUG - Test module - choice 1
+2015-11-26 23:36:44,019 - wc.controller - INFO - Starting rain function in telnetapi
+2015-11-26 23:36:44,035 - wc.controller - DEBUG - calling telnet with following arguments: username password 192.168.1.89 25565
+2015-11-26 23:36:44,051 - wc.controller - DEBUG - closing telnet
+2015-11-26 23:38:16,445 - wc.controller - INFO - WeatherCraft weather state reader and forward to Minecraft server is starting...
+2015-11-26 23:38:16,445 - wc.controller - DEBUG - Argument no  : frequency = 60
+2015-11-26 23:38:16,445 - wc.controller - DEBUG - Argument no  : user = None
+2015-11-26 23:38:16,445 - wc.controller - DEBUG - Argument no  : loglevel = debug
+2015-11-26 23:38:16,460 - wc.controller - DEBUG - Argument no  : localip = 127.0.0.1
+2015-11-26 23:38:16,460 - wc.controller - DEBUG - Argument no  : localport = 8080
+2015-11-26 23:38:16,460 - wc.controller - DEBUG - Argument no  : password = None
+2015-11-26 23:38:16,460 - wc.controller - DEBUG - Argument no  : verbose = True
+2015-11-26 23:38:16,460 - wc.controller - DEBUG - Argument no  : target = 192.168.1.89
+2015-11-26 23:38:16,460 - wc.controller - DEBUG - Argument no  : configfile = wcconfig.ini
+2015-11-26 23:38:16,460 - wc.controller - DEBUG - Argument no  : port = None
+2015-11-26 23:38:16,476 - wc.controller - DEBUG - Argument no  : test = True
+2015-11-26 23:38:16,476 - wc.controller - DEBUG - The target address is: 192.168.1.89
+2015-11-26 23:38:16,476 - wc.controller - DEBUG - The frequency is : 60
+2015-11-26 23:38:16,476 - wc.controller - DEBUG - The target address is: 192.168.1.89
+2015-11-26 23:38:16,476 - wc.controller - DEBUG - The port number is: None
+2015-11-26 23:38:16,476 - wc.controller - DEBUG - final config user: username
+2015-11-26 23:38:16,476 - wc.controller - DEBUG - final config password: password
+2015-11-26 23:38:16,491 - wc.controller - DEBUG - final config local IP: 127.0.0.1
+2015-11-26 23:38:16,491 - wc.controller - DEBUG - final config local port: 8080
+2015-11-26 23:38:16,491 - wc.controller - DEBUG - final config minecraft target IP: 192.168.1.89
+2015-11-26 23:38:16,491 - wc.controller - DEBUG - final config minecraft port number: 25565
+2015-11-26 23:38:16,491 - wc.controller - DEBUG - final config frequency: 60
+2015-11-26 23:38:16,491 - wc.controller - DEBUG - Launching a test with the following parameters: username password 192.168.1.89 25565
+2015-11-26 23:38:16,507 - wc.controller - INFO - Starting cmdline python file
+2015-11-26 23:38:23,205 - wc.controller - DEBUG - Test module - choice 2
+2015-11-26 23:38:23,205 - wc.controller - INFO - Starting sun function in telnetapi
+2015-11-26 23:38:23,209 - wc.controller - DEBUG - calling telnet with following arguments: username password 192.168.1.89 25565
+2015-11-26 23:38:23,303 - wc.controller - DEBUG - closing telnet
+2015-11-26 23:38:27,330 - wc.controller - DEBUG - Test module - choice 3
+2015-11-26 23:38:27,330 - wc.controller - INFO - Starting day function in telnetapi
+2015-11-26 23:38:27,330 - wc.controller - DEBUG - calling telnet with following arguments: username password 192.168.1.89 25565
+2015-11-26 23:38:27,346 - wc.controller - DEBUG - closing telnet
+2015-11-26 23:38:30,531 - wc.controller - DEBUG - Test module - choice 3
+2015-11-26 23:38:30,531 - wc.controller - INFO - Starting day function in telnetapi
+2015-11-26 23:38:30,531 - wc.controller - DEBUG - calling telnet with following arguments: username password 192.168.1.89 25565
+2015-11-26 23:38:30,531 - wc.controller - DEBUG - closing telnet
+2015-11-26 23:38:31,126 - wc.controller - DEBUG - Test module - choice 3
+2015-11-26 23:38:31,126 - wc.controller - INFO - Starting day function in telnetapi
+2015-11-26 23:38:31,126 - wc.controller - DEBUG - calling telnet with following arguments: username password 192.168.1.89 25565
+2015-11-26 23:38:31,142 - wc.controller - DEBUG - closing telnet
+2015-11-26 23:38:31,554 - wc.controller - DEBUG - Test module - choice 3
+2015-11-26 23:38:31,554 - wc.controller - INFO - Starting day function in telnetapi
+2015-11-26 23:38:31,554 - wc.controller - DEBUG - calling telnet with following arguments: username password 192.168.1.89 25565
+2015-11-26 23:38:31,570 - wc.controller - DEBUG - closing telnet
+2015-11-26 23:38:31,870 - wc.controller - DEBUG - Test module - choice 3
+2015-11-26 23:38:31,870 - wc.controller - INFO - Starting day function in telnetapi
+2015-11-26 23:38:31,870 - wc.controller - DEBUG - calling telnet with following arguments: username password 192.168.1.89 25565
+2015-11-26 23:38:31,870 - wc.controller - DEBUG - closing telnet
+2015-11-26 23:38:32,253 - wc.controller - DEBUG - Test module - choice 3
+2015-11-26 23:38:32,253 - wc.controller - INFO - Starting day function in telnetapi
+2015-11-26 23:38:32,253 - wc.controller - DEBUG - calling telnet with following arguments: username password 192.168.1.89 25565
+2015-11-26 23:38:32,269 - wc.controller - DEBUG - closing telnet
+2015-11-26 23:38:37,916 - wc.controller - DEBUG - Test module - choice 2
+2015-11-26 23:38:37,916 - wc.controller - INFO - Starting sun function in telnetapi
+2015-11-26 23:38:37,916 - wc.controller - DEBUG - calling telnet with following arguments: username password 192.168.1.89 25565
+2015-11-26 23:38:37,940 - wc.controller - DEBUG - closing telnet
+2015-11-27 23:20:57,445 - wc.controller - INFO - WeatherCraft weather state reader and forward to Minecraft server is starting...
+2015-11-27 23:20:57,476 - wc.controller - DEBUG - Argument no  : configfile = wcconfig.ini
+2015-11-27 23:20:57,476 - wc.controller - DEBUG - Argument no  : frequency = 60
+2015-11-27 23:20:57,476 - wc.controller - DEBUG - Argument no  : user = None
+2015-11-27 23:20:57,476 - wc.controller - DEBUG - Argument no  : localport = 8080
+2015-11-27 23:20:57,476 - wc.controller - DEBUG - Argument no  : test = True
+2015-11-27 23:20:57,476 - wc.controller - DEBUG - Argument no  : loglevel = debug
+2015-11-27 23:20:57,476 - wc.controller - DEBUG - Argument no  : localip = 127.0.0.1
+2015-11-27 23:20:57,476 - wc.controller - DEBUG - Argument no  : target = 192.168.1.89
+2015-11-27 23:20:57,476 - wc.controller - DEBUG - Argument no  : password = None
+2015-11-27 23:20:57,476 - wc.controller - DEBUG - Argument no  : port = None
+2015-11-27 23:20:57,476 - wc.controller - DEBUG - Argument no  : verbose = True
+2015-11-27 23:20:57,476 - wc.controller - DEBUG - The target address is: 192.168.1.89
+2015-11-27 23:20:57,476 - wc.controller - DEBUG - The frequency is : 60
+2015-11-27 23:20:57,476 - wc.controller - DEBUG - The target address is: 192.168.1.89
+2015-11-27 23:20:57,492 - wc.controller - DEBUG - The port number is: None
+2015-11-27 23:20:57,492 - wc.controller - DEBUG - final config user: username
+2015-11-27 23:20:57,492 - wc.controller - DEBUG - final config password: password
+2015-11-27 23:20:57,492 - wc.controller - DEBUG - final config local IP: 127.0.0.1
+2015-11-27 23:20:57,492 - wc.controller - DEBUG - final config local port: 8080
+2015-11-27 23:20:57,492 - wc.controller - DEBUG - final config minecraft target IP: 192.168.1.89
+2015-11-27 23:20:57,492 - wc.controller - DEBUG - final config minecraft port number: 25565
+2015-11-27 23:20:57,507 - wc.controller - DEBUG - final config frequency: 60
+2015-11-27 23:20:57,507 - wc.controller - DEBUG - Launching a test with the following parameters: username password 192.168.1.89 25565
+2015-11-27 23:20:57,507 - wc.controller - INFO - Starting cmdline python file
+2015-11-27 23:20:59,559 - wc.controller - DEBUG - Test module - choice 1
+2015-11-27 23:20:59,559 - wc.controller - INFO - Starting rain function in telnetapi
+2015-11-27 23:20:59,559 - wc.controller - DEBUG - calling telnet with following arguments: username password 192.168.1.89 25565
+2015-11-27 23:21:00,624 - wc.controller - DEBUG - closing telnet
+2015-11-27 23:21:35,675 - wc.controller - INFO - WeatherCraft weather state reader and forward to Minecraft server is starting...
+2015-11-27 23:21:35,675 - wc.controller - DEBUG - Argument no  : localip = 127.0.0.1
+2015-11-27 23:21:35,691 - wc.controller - DEBUG - Argument no  : loglevel = debug
+2015-11-27 23:21:35,691 - wc.controller - DEBUG - Argument no  : configfile = wcconfig.ini
+2015-11-27 23:21:35,691 - wc.controller - DEBUG - Argument no  : test = True
+2015-11-27 23:21:35,691 - wc.controller - DEBUG - Argument no  : verbose = True
+2015-11-27 23:21:35,691 - wc.controller - DEBUG - Argument no  : frequency = 60
+2015-11-27 23:21:35,691 - wc.controller - DEBUG - Argument no  : localport = 8080
+2015-11-27 23:21:35,691 - wc.controller - DEBUG - Argument no  : password = None
+2015-11-27 23:21:35,707 - wc.controller - DEBUG - Argument no  : user = None
+2015-11-27 23:21:35,707 - wc.controller - DEBUG - Argument no  : port = None
+2015-11-27 23:21:35,707 - wc.controller - DEBUG - Argument no  : target = 192.168.1.89
+2015-11-27 23:21:35,707 - wc.controller - DEBUG - The target address is: 192.168.1.89
+2015-11-27 23:21:35,707 - wc.controller - DEBUG - The frequency is : 60
+2015-11-27 23:21:35,707 - wc.controller - DEBUG - The target address is: 192.168.1.89
+2015-11-27 23:21:35,707 - wc.controller - DEBUG - The port number is: None
+2015-11-27 23:21:35,722 - wc.controller - DEBUG - final config user: username
+2015-11-27 23:21:35,722 - wc.controller - DEBUG - final config password: password
+2015-11-27 23:21:35,722 - wc.controller - DEBUG - final config local IP: 127.0.0.1
+2015-11-27 23:21:35,722 - wc.controller - DEBUG - final config local port: 8080
+2015-11-27 23:21:35,722 - wc.controller - DEBUG - final config minecraft target IP: 192.168.1.89
+2015-11-27 23:21:35,722 - wc.controller - DEBUG - final config minecraft port number: 25565
+2015-11-27 23:21:35,722 - wc.controller - DEBUG - final config frequency: 60
+2015-11-27 23:21:35,722 - wc.controller - DEBUG - Launching a test with the following parameters: username password 192.168.1.89 25565
+2015-11-27 23:21:35,738 - wc.controller - INFO - Starting cmdline python file
+2015-11-27 23:21:37,642 - wc.controller - DEBUG - Test module - choice 2
+2015-11-27 23:21:37,642 - wc.controller - INFO - Starting sun function in telnetapi
+2015-11-27 23:21:37,658 - wc.controller - DEBUG - calling telnet with following arguments: username password 192.168.1.89 25565
+2015-11-27 23:21:37,864 - wc.controller - DEBUG - closing telnet
+2015-11-27 23:21:39,914 - wc.controller - DEBUG - Test module - choice 1
+2015-11-27 23:21:39,914 - wc.controller - INFO - Starting rain function in telnetapi
+2015-11-27 23:21:39,918 - wc.controller - DEBUG - calling telnet with following arguments: username password 192.168.1.89 25565
+2015-11-27 23:21:39,930 - wc.controller - DEBUG - closing telnet
+2015-11-27 23:21:42,525 - wc.controller - DEBUG - Test module - choice 3
+2015-11-27 23:21:42,556 - wc.controller - INFO - Starting day function in telnetapi
+2015-11-27 23:21:42,556 - wc.controller - DEBUG - calling telnet with following arguments: username password 192.168.1.89 25565
+2015-11-27 23:21:42,572 - wc.controller - DEBUG - closing telnet
+2015-11-27 23:22:01,287 - wc.controller - INFO - WeatherCraft weather state reader and forward to Minecraft server is starting...
+2015-11-27 23:22:01,287 - wc.controller - DEBUG - Argument no  : password = None
+2015-11-27 23:22:01,302 - wc.controller - DEBUG - Argument no  : localport = 8080
+2015-11-27 23:22:01,302 - wc.controller - DEBUG - Argument no  : localip = 127.0.0.1
+2015-11-27 23:22:01,302 - wc.controller - DEBUG - Argument no  : test = True
+2015-11-27 23:22:01,302 - wc.controller - DEBUG - Argument no  : user = None
+2015-11-27 23:22:01,302 - wc.controller - DEBUG - Argument no  : target = 192.168.1.89
+2015-11-27 23:22:01,302 - wc.controller - DEBUG - Argument no  : loglevel = debug
+2015-11-27 23:22:01,302 - wc.controller - DEBUG - Argument no  : verbose = True
+2015-11-27 23:22:01,302 - wc.controller - DEBUG - Argument no  : frequency = 60
+2015-11-27 23:22:01,318 - wc.controller - DEBUG - Argument no  : port = None
+2015-11-27 23:22:01,318 - wc.controller - DEBUG - Argument no  : configfile = wcconfig.ini
+2015-11-27 23:22:01,318 - wc.controller - DEBUG - The target address is: 192.168.1.89
+2015-11-27 23:22:01,318 - wc.controller - DEBUG - The frequency is : 60
+2015-11-27 23:22:01,318 - wc.controller - DEBUG - The target address is: 192.168.1.89
+2015-11-27 23:22:01,318 - wc.controller - DEBUG - The port number is: None
+2015-11-27 23:22:01,334 - wc.controller - DEBUG - final config user: username
+2015-11-27 23:22:01,334 - wc.controller - DEBUG - final config password: password
+2015-11-27 23:22:01,334 - wc.controller - DEBUG - final config local IP: 127.0.0.1
+2015-11-27 23:22:01,334 - wc.controller - DEBUG - final config local port: 8080
+2015-11-27 23:22:01,334 - wc.controller - DEBUG - final config minecraft target IP: 192.168.1.89
+2015-11-27 23:22:01,334 - wc.controller - DEBUG - final config minecraft port number: 25565
+2015-11-27 23:22:01,334 - wc.controller - DEBUG - final config frequency: 60
+2015-11-27 23:22:01,334 - wc.controller - DEBUG - Launching a test with the following parameters: username password 192.168.1.89 25565
+2015-11-27 23:22:01,349 - wc.controller - INFO - Starting cmdline python file
+2015-11-27 23:22:04,230 - wc.controller - DEBUG - Test module - choice 1
+2015-11-27 23:22:04,230 - wc.controller - INFO - Starting rain function in telnetapi
+2015-11-27 23:22:04,230 - wc.controller - DEBUG - calling telnet with following arguments: username password 192.168.1.89 25565
+2015-11-27 23:22:04,292 - wc.controller - DEBUG - closing telnet
+2015-11-29 22:11:14,793 - wc.controller - INFO - WeatherCraft weather state reader and forward to Minecraft server is starting...
+2015-11-29 22:11:14,805 - wc.controller - DEBUG - Argument no  : verbose = True
+2015-11-29 22:11:14,805 - wc.controller - DEBUG - Argument no  : port = None
+2015-11-29 22:11:14,806 - wc.controller - DEBUG - Argument no  : configfile = wcconfig.ini
+2015-11-29 22:11:14,806 - wc.controller - DEBUG - Argument no  : loglevel = debug
+2015-11-29 22:11:14,806 - wc.controller - DEBUG - Argument no  : target = 192.168.1.89
+2015-11-29 22:11:14,806 - wc.controller - DEBUG - Argument no  : password = None
+2015-11-29 22:11:14,806 - wc.controller - DEBUG - Argument no  : test = True
+2015-11-29 22:11:14,807 - wc.controller - DEBUG - Argument no  : localip = 127.0.0.1
+2015-11-29 22:11:14,807 - wc.controller - DEBUG - Argument no  : user = None
+2015-11-29 22:11:14,807 - wc.controller - DEBUG - Argument no  : localport = 8080
+2015-11-29 22:11:14,807 - wc.controller - DEBUG - Argument no  : frequency = 60
+2015-11-29 22:11:14,808 - wc.controller - DEBUG - The target address is: 192.168.1.89
+2015-11-29 22:11:14,808 - wc.controller - DEBUG - The frequency is : 60
+2015-11-29 22:11:14,808 - wc.controller - DEBUG - The target address is: 192.168.1.89
+2015-11-29 22:11:14,809 - wc.controller - DEBUG - The port number is: None
+2015-11-29 22:11:14,811 - wc.controller - DEBUG - final config user: username
+2015-11-29 22:11:14,811 - wc.controller - DEBUG - final config password: password
+2015-11-29 22:11:14,811 - wc.controller - DEBUG - final config local IP: 127.0.0.1
+2015-11-29 22:11:14,812 - wc.controller - DEBUG - final config local port: 8080
+2015-11-29 22:11:14,812 - wc.controller - DEBUG - final config minecraft target IP: 192.168.1.89
+2015-11-29 22:11:14,812 - wc.controller - DEBUG - final config minecraft port number: 25565
+2015-11-29 22:11:14,813 - wc.controller - DEBUG - final config frequency: 60
+2015-11-29 22:11:14,813 - wc.controller - DEBUG - Launching a test with the following parameters: username password 192.168.1.89 25565
+2015-11-29 22:11:14,813 - wc.controller - INFO - Starting cmdline python file
+2015-11-29 22:11:18,367 - wc.controller - DEBUG - Test module - choice 1
+2015-11-29 22:11:18,367 - wc.controller - INFO - Starting rain function in telnetapi
+2015-11-29 22:11:18,368 - wc.controller - DEBUG - calling telnet with following arguments: username password 192.168.1.89 25565
+2015-11-29 22:11:18,789 - wc.controller - DEBUG - closing telnet
+2015-11-29 22:58:43,705 - wc.controller - INFO - WeatherCraft weather state reader and forward to Minecraft server is starting...
+2015-11-29 22:58:43,721 - wc.controller - DEBUG - Argument no  : user = None
+2015-11-29 22:58:43,721 - wc.controller - DEBUG - Argument no  : test = True
+2015-11-29 22:58:43,721 - wc.controller - DEBUG - Argument no  : password = None
+2015-11-29 22:58:43,721 - wc.controller - DEBUG - Argument no  : configfile = wcconfig.ini
+2015-11-29 22:58:43,721 - wc.controller - DEBUG - Argument no  : localport = 8080
+2015-11-29 22:58:43,721 - wc.controller - DEBUG - Argument no  : loglevel = debug
+2015-11-29 22:58:43,721 - wc.controller - DEBUG - Argument no  : verbose = True
+2015-11-29 22:58:43,721 - wc.controller - DEBUG - Argument no  : target = 192.168.1.89
+2015-11-29 22:58:43,721 - wc.controller - DEBUG - Argument no  : port = None
+2015-11-29 22:58:43,721 - wc.controller - DEBUG - Argument no  : localip = 127.0.0.1
+2015-11-29 22:58:43,721 - wc.controller - DEBUG - Argument no  : frequency = 60
+2015-11-29 22:58:43,721 - wc.controller - DEBUG - The target address is: 192.168.1.89
+2015-11-29 22:58:43,721 - wc.controller - DEBUG - The frequency is : 60
+2015-11-29 22:58:43,721 - wc.controller - DEBUG - The target address is: 192.168.1.89
+2015-11-29 22:58:43,721 - wc.controller - DEBUG - The port number is: None
+2015-11-29 22:58:43,737 - wc.controller - DEBUG - final config user: username
+2015-11-29 22:58:43,737 - wc.controller - DEBUG - final config password: password
+2015-11-29 22:58:43,737 - wc.controller - DEBUG - final config local IP: 127.0.0.1
+2015-11-29 22:58:43,737 - wc.controller - DEBUG - final config local port: 8080
+2015-11-29 22:58:43,737 - wc.controller - DEBUG - final config minecraft target IP: 192.168.1.89
+2015-11-29 22:58:43,737 - wc.controller - DEBUG - final config minecraft port number: 25565
+2015-11-29 22:58:43,737 - wc.controller - DEBUG - final config frequency: 60
+2015-11-29 22:58:43,737 - wc.controller - DEBUG - Launching a test with the following parameters: username password 192.168.1.89 25565
+2015-11-29 22:58:43,737 - wc.controller - INFO - Starting cmdline python file
+2015-11-29 22:59:17,242 - wc.controller - DEBUG - Test module - choice 1
+2015-11-29 22:59:17,242 - wc.controller - INFO - Starting rain function in telnetapi
+2015-11-29 22:59:17,242 - wc.controller - DEBUG - calling telnet with following arguments: username password 192.168.1.89 25565
+2015-11-29 22:59:17,304 - wc.controller - DEBUG - closing telnet
+2015-11-29 22:59:29,477 - wc.controller - DEBUG - Test module - choice 1
+2015-11-29 22:59:29,477 - wc.controller - INFO - Starting rain function in telnetapi
+2015-11-29 22:59:29,477 - wc.controller - DEBUG - calling telnet with following arguments: username password 192.168.1.89 25565
+2015-11-29 22:59:29,489 - wc.controller - DEBUG - closing telnet
+2015-11-29 22:59:32,139 - wc.controller - DEBUG - Test module - choice 1
+2015-11-29 22:59:32,139 - wc.controller - INFO - Starting rain function in telnetapi
+2015-11-29 22:59:32,139 - wc.controller - DEBUG - calling telnet with following arguments: username password 192.168.1.89 25565
+2015-11-29 22:59:32,139 - wc.controller - DEBUG - closing telnet
+2015-11-29 22:59:32,899 - wc.controller - DEBUG - Test module - choice 1
+2015-11-29 22:59:32,899 - wc.controller - INFO - Starting rain function in telnetapi
+2015-11-29 22:59:32,899 - wc.controller - DEBUG - calling telnet with following arguments: username password 192.168.1.89 25565
+2015-11-29 22:59:32,915 - wc.controller - DEBUG - closing telnet
+2015-11-29 22:59:33,471 - wc.controller - DEBUG - Test module - choice 1
+2015-11-29 22:59:33,471 - wc.controller - INFO - Starting rain function in telnetapi
+2015-11-29 22:59:33,471 - wc.controller - DEBUG - calling telnet with following arguments: username password 192.168.1.89 25565
+2015-11-29 22:59:33,518 - wc.controller - DEBUG - closing telnet
+2015-11-29 22:59:34,011 - wc.controller - DEBUG - Test module - choice 1
+2015-11-29 22:59:34,011 - wc.controller - INFO - Starting rain function in telnetapi
+2015-11-29 22:59:34,011 - wc.controller - DEBUG - calling telnet with following arguments: username password 192.168.1.89 25565
+2015-11-29 22:59:34,011 - wc.controller - DEBUG - closing telnet
+2015-11-29 22:59:34,493 - wc.controller - DEBUG - Test module - choice 1
+2015-11-29 22:59:34,493 - wc.controller - INFO - Starting rain function in telnetapi
+2015-11-29 22:59:34,497 - wc.controller - DEBUG - calling telnet with following arguments: username password 192.168.1.89 25565
+2015-11-29 22:59:34,506 - wc.controller - DEBUG - closing telnet
+2015-11-29 22:59:34,954 - wc.controller - DEBUG - Test module - choice 1
+2015-11-29 22:59:34,954 - wc.controller - INFO - Starting rain function in telnetapi
+2015-11-29 22:59:34,954 - wc.controller - DEBUG - calling telnet with following arguments: username password 192.168.1.89 25565
+2015-11-29 22:59:34,954 - wc.controller - DEBUG - closing telnet
+2015-11-29 22:59:35,438 - wc.controller - DEBUG - Test module - choice 1
+2015-11-29 22:59:35,438 - wc.controller - INFO - Starting rain function in telnetapi
+2015-11-29 22:59:35,442 - wc.controller - DEBUG - calling telnet with following arguments: username password 192.168.1.89 25565
+2015-11-29 22:59:35,447 - wc.controller - DEBUG - closing telnet
+2015-11-29 22:59:35,947 - wc.controller - DEBUG - Test module - choice 1
+2015-11-29 22:59:35,947 - wc.controller - INFO - Starting rain function in telnetapi
+2015-11-29 22:59:35,947 - wc.controller - DEBUG - calling telnet with following arguments: username password 192.168.1.89 25565
+2015-11-29 22:59:35,947 - wc.controller - DEBUG - closing telnet
+2015-11-29 23:00:45,885 - wc.controller - INFO - WeatherCraft weather state reader and forward to Minecraft server is starting...
+2015-11-29 23:00:45,885 - wc.controller - DEBUG - Argument no  : localport = 8080
+2015-11-29 23:00:45,900 - wc.controller - DEBUG - Argument no  : loglevel = debug
+2015-11-29 23:00:45,900 - wc.controller - DEBUG - Argument no  : frequency = 60
+2015-11-29 23:00:45,900 - wc.controller - DEBUG - Argument no  : localip = 127.0.0.1
+2015-11-29 23:00:45,900 - wc.controller - DEBUG - Argument no  : password = None
+2015-11-29 23:00:45,900 - wc.controller - DEBUG - Argument no  : verbose = True
+2015-11-29 23:00:45,900 - wc.controller - DEBUG - Argument no  : user = None
+2015-11-29 23:00:45,900 - wc.controller - DEBUG - Argument no  : test = True
+2015-11-29 23:00:45,900 - wc.controller - DEBUG - Argument no  : target = 192.168.1.89
+2015-11-29 23:00:45,916 - wc.controller - DEBUG - Argument no  : port = None
+2015-11-29 23:00:45,916 - wc.controller - DEBUG - Argument no  : configfile = wcconfig.ini
+2015-11-29 23:00:45,916 - wc.controller - DEBUG - The target address is: 192.168.1.89
+2015-11-29 23:00:45,916 - wc.controller - DEBUG - The frequency is : 60
+2015-11-29 23:00:45,916 - wc.controller - DEBUG - The target address is: 192.168.1.89
+2015-11-29 23:00:45,916 - wc.controller - DEBUG - The port number is: None
+2015-11-29 23:00:45,932 - wc.controller - DEBUG - final config user: username
+2015-11-29 23:00:45,932 - wc.controller - DEBUG - final config password: password
+2015-11-29 23:00:45,932 - wc.controller - DEBUG - final config local IP: 127.0.0.1
+2015-11-29 23:00:45,936 - wc.controller - DEBUG - final config local port: 8080
+2015-11-29 23:00:45,936 - wc.controller - DEBUG - final config minecraft target IP: 192.168.1.89
+2015-11-29 23:00:45,936 - wc.controller - DEBUG - final config minecraft port number: 25565
+2015-11-29 23:00:45,936 - wc.controller - DEBUG - final config frequency: 60
+2015-11-29 23:00:45,936 - wc.controller - DEBUG - Launching a test with the following parameters: username password 192.168.1.89 25565
+2015-11-29 23:00:45,936 - wc.controller - INFO - Starting cmdline python file
+2015-11-29 23:00:47,621 - wc.controller - DEBUG - Test module - choice 1
+2015-11-29 23:00:47,621 - wc.controller - INFO - Starting rain function in telnetapi
+2015-11-29 23:00:47,637 - wc.controller - DEBUG - calling telnet with following arguments: username password 192.168.1.89 25565
+2015-11-29 23:00:47,637 - wc.controller - DEBUG - closing telnet
+2015-11-29 23:00:48,269 - wc.controller - DEBUG - Test module - choice 2
+2015-11-29 23:00:50,885 - wc.controller - INFO - Starting sun function in telnetapi
+2015-11-29 23:00:50,885 - wc.controller - DEBUG - calling telnet with following arguments: username password 192.168.1.89 25565
+2015-11-29 23:00:50,885 - wc.controller - DEBUG - closing telnet
+2015-11-29 23:00:50,901 - wc.controller - DEBUG - Test module - choice 1
+2015-11-29 23:00:50,916 - wc.controller - INFO - Starting rain function in telnetapi
+2015-11-29 23:00:50,916 - wc.controller - DEBUG - calling telnet with following arguments: username password 192.168.1.89 25565
+2015-11-29 23:00:50,916 - wc.controller - DEBUG - closing telnet
+2015-11-29 23:00:50,932 - wc.controller - DEBUG - Test module - choice 2
+2015-11-29 23:00:50,932 - wc.controller - INFO - Starting sun function in telnetapi
+2015-11-29 23:00:50,947 - wc.controller - DEBUG - calling telnet with following arguments: username password 192.168.1.89 25565
+2015-11-29 23:00:50,947 - wc.controller - DEBUG - closing telnet
+2015-11-29 23:00:50,963 - wc.controller - DEBUG - Test module - choice 1
+2015-11-29 23:00:50,963 - wc.controller - INFO - Starting rain function in telnetapi
+2015-11-29 23:00:50,979 - wc.controller - DEBUG - calling telnet with following arguments: username password 192.168.1.89 25565
+2015-11-29 23:00:50,979 - wc.controller - DEBUG - closing telnet
+2015-11-29 23:00:50,994 - wc.controller - DEBUG - Test module - choice 2
+2015-11-29 23:00:50,994 - wc.controller - INFO - Starting sun function in telnetapi
+2015-11-29 23:00:50,994 - wc.controller - DEBUG - calling telnet with following arguments: username password 192.168.1.89 25565
+2015-11-29 23:00:51,026 - wc.controller - DEBUG - closing telnet
+2015-11-29 23:00:51,041 - wc.controller - DEBUG - Test module - choice 1
+2015-11-29 23:00:51,046 - wc.controller - INFO - Starting rain function in telnetapi
+2015-11-29 23:00:51,046 - wc.controller - DEBUG - calling telnet with following arguments: username password 192.168.1.89 25565
+2015-11-29 23:00:51,046 - wc.controller - DEBUG - closing telnet
+2015-11-29 23:00:51,760 - wc.controller - DEBUG - Test module - choice 2
+2015-11-29 23:00:51,760 - wc.controller - INFO - Starting sun function in telnetapi
+2015-11-29 23:00:51,760 - wc.controller - DEBUG - calling telnet with following arguments: username password 192.168.1.89 25565
+2015-11-29 23:00:51,760 - wc.controller - DEBUG - closing telnet
+2015-11-29 23:00:52,314 - wc.controller - DEBUG - Test module - choice 1
+2015-11-29 23:00:52,314 - wc.controller - INFO - Starting rain function in telnetapi
+2015-11-29 23:00:52,314 - wc.controller - DEBUG - calling telnet with following arguments: username password 192.168.1.89 25565
+2015-11-29 23:00:52,330 - wc.controller - DEBUG - closing telnet
+2015-11-29 23:00:52,945 - wc.controller - DEBUG - Test module - choice 2
+2015-11-29 23:00:52,945 - wc.controller - INFO - Starting sun function in telnetapi
+2015-11-29 23:00:52,945 - wc.controller - DEBUG - calling telnet with following arguments: username password 192.168.1.89 25565
+2015-11-29 23:00:52,949 - wc.controller - DEBUG - closing telnet
+2015-11-29 23:00:53,520 - wc.controller - DEBUG - Test module - choice 1
+2015-11-29 23:00:53,520 - wc.controller - INFO - Starting rain function in telnetapi
+2015-11-29 23:00:53,536 - wc.controller - DEBUG - calling telnet with following arguments: username password 192.168.1.89 25565
+2015-11-29 23:00:53,536 - wc.controller - DEBUG - closing telnet
+2015-11-29 23:00:54,054 - wc.controller - DEBUG - Test module - choice 2
+2015-11-29 23:00:54,054 - wc.controller - INFO - Starting sun function in telnetapi
+2015-11-29 23:00:54,054 - wc.controller - DEBUG - calling telnet with following arguments: username password 192.168.1.89 25565
+2015-11-29 23:00:54,070 - wc.controller - DEBUG - closing telnet
+2015-11-29 23:00:54,575 - wc.controller - DEBUG - Test module - choice 1
+2015-11-29 23:00:54,575 - wc.controller - INFO - Starting rain function in telnetapi
+2015-11-29 23:00:54,575 - wc.controller - DEBUG - calling telnet with following arguments: username password 192.168.1.89 25565
+2015-11-29 23:00:54,579 - wc.controller - DEBUG - closing telnet
+2015-11-29 23:00:55,115 - wc.controller - DEBUG - Test module - choice 2
+2015-11-29 23:00:55,115 - wc.controller - INFO - Starting sun function in telnetapi
+2015-11-29 23:00:55,115 - wc.controller - DEBUG - calling telnet with following arguments: username password 192.168.1.89 25565
+2015-11-29 23:00:55,115 - wc.controller - DEBUG - closing telnet
+2015-11-29 23:00:55,692 - wc.controller - DEBUG - Test module - choice 1
+2015-11-29 23:00:55,692 - wc.controller - INFO - Starting rain function in telnetapi
+2015-11-29 23:00:55,692 - wc.controller - DEBUG - calling telnet with following arguments: username password 192.168.1.89 25565
+2015-11-29 23:00:55,692 - wc.controller - DEBUG - closing telnet
+2015-11-29 23:00:56,268 - wc.controller - DEBUG - Test module - choice 2
+2015-11-29 23:00:56,268 - wc.controller - INFO - Starting sun function in telnetapi
+2015-11-29 23:00:56,268 - wc.controller - DEBUG - calling telnet with following arguments: username password 192.168.1.89 25565
+2015-11-29 23:00:56,268 - wc.controller - DEBUG - closing telnet
+2015-11-29 23:00:56,826 - wc.controller - DEBUG - Test module - choice 1
+2015-11-29 23:00:56,841 - wc.controller - INFO - Starting rain function in telnetapi
+2015-11-29 23:00:56,841 - wc.controller - DEBUG - calling telnet with following arguments: username password 192.168.1.89 25565
+2015-11-29 23:00:56,860 - wc.controller - DEBUG - closing telnet
+2015-11-29 23:00:58,403 - wc.controller - DEBUG - Test module - choice 2
+2015-11-29 23:00:58,403 - wc.controller - INFO - Starting sun function in telnetapi
+2015-11-29 23:00:58,403 - wc.controller - DEBUG - calling telnet with following arguments: username password 192.168.1.89 25565
+2015-11-29 23:00:58,407 - wc.controller - DEBUG - closing telnet
+2015-11-29 23:00:58,997 - wc.controller - DEBUG - Test module - choice 1
+2015-11-29 23:00:58,997 - wc.controller - INFO - Starting rain function in telnetapi
+2015-11-29 23:00:58,997 - wc.controller - DEBUG - calling telnet with following arguments: username password 192.168.1.89 25565
+2015-11-29 23:00:59,013 - wc.controller - DEBUG - closing telnet
+2015-11-29 23:00:59,572 - wc.controller - DEBUG - Test module - choice 2
+2015-11-29 23:00:59,572 - wc.controller - INFO - Starting sun function in telnetapi
+2015-11-29 23:00:59,572 - wc.controller - DEBUG - calling telnet with following arguments: username password 192.168.1.89 25565
+2015-11-29 23:00:59,572 - wc.controller - DEBUG - closing telnet
+2015-11-29 23:01:00,138 - wc.controller - DEBUG - Test module - choice 1
+2015-11-29 23:01:00,138 - wc.controller - INFO - Starting rain function in telnetapi
+2015-11-29 23:01:00,138 - wc.controller - DEBUG - calling telnet with following arguments: username password 192.168.1.89 25565
+2015-11-29 23:01:00,138 - wc.controller - DEBUG - closing telnet
+2015-11-29 23:01:00,799 - wc.controller - DEBUG - Test module - choice 2
+2015-11-29 23:01:00,799 - wc.controller - INFO - Starting sun function in telnetapi
+2015-11-29 23:01:00,799 - wc.controller - DEBUG - calling telnet with following arguments: username password 192.168.1.89 25565
+2015-11-29 23:01:00,806 - wc.controller - DEBUG - closing telnet
+2015-11-29 23:01:01,447 - wc.controller - DEBUG - Test module - choice 1
+2015-11-29 23:01:01,447 - wc.controller - INFO - Starting rain function in telnetapi
+2015-11-29 23:01:01,447 - wc.controller - DEBUG - calling telnet with following arguments: username password 192.168.1.89 25565
+2015-11-29 23:01:01,447 - wc.controller - DEBUG - closing telnet
+2015-11-29 23:01:02,210 - wc.controller - DEBUG - Test module - choice 2
+2015-11-29 23:01:02,210 - wc.controller - INFO - Starting sun function in telnetapi
+2015-11-29 23:01:02,210 - wc.controller - DEBUG - calling telnet with following arguments: username password 192.168.1.89 25565
+2015-11-29 23:01:02,210 - wc.controller - DEBUG - closing telnet
+2015-11-29 23:01:02,885 - wc.controller - DEBUG - Test module - choice 1
+2015-11-29 23:01:02,885 - wc.controller - INFO - Starting rain function in telnetapi
+2015-11-29 23:01:02,885 - wc.controller - DEBUG - calling telnet with following arguments: username password 192.168.1.89 25565
+2015-11-29 23:01:02,885 - wc.controller - DEBUG - closing telnet
+2015-11-29 23:01:03,494 - wc.controller - DEBUG - Test module - choice 2
+2015-11-29 23:01:03,494 - wc.controller - INFO - Starting sun function in telnetapi
+2015-11-29 23:01:03,494 - wc.controller - DEBUG - calling telnet with following arguments: username password 192.168.1.89 25565
+2015-11-29 23:01:03,510 - wc.controller - DEBUG - closing telnet
+2015-11-29 23:01:04,091 - wc.controller - DEBUG - Test module - choice 1
+2015-11-29 23:01:04,091 - wc.controller - INFO - Starting rain function in telnetapi
+2015-11-29 23:01:04,091 - wc.controller - DEBUG - calling telnet with following arguments: username password 192.168.1.89 25565
+2015-11-29 23:01:04,107 - wc.controller - DEBUG - closing telnet
+2015-11-29 23:01:04,721 - wc.controller - DEBUG - Test module - choice 2
+2015-11-29 23:01:04,721 - wc.controller - INFO - Starting sun function in telnetapi
+2015-11-29 23:01:04,721 - wc.controller - DEBUG - calling telnet with following arguments: username password 192.168.1.89 25565
+2015-11-29 23:01:04,721 - wc.controller - DEBUG - closing telnet
+2015-11-29 23:01:05,302 - wc.controller - DEBUG - Test module - choice 1
+2015-11-29 23:01:05,302 - wc.controller - INFO - Starting rain function in telnetapi
+2015-11-29 23:01:05,302 - wc.controller - DEBUG - calling telnet with following arguments: username password 192.168.1.89 25565
+2015-11-29 23:01:05,302 - wc.controller - DEBUG - closing telnet
+2015-11-29 23:01:05,885 - wc.controller - DEBUG - Test module - choice 2
+2015-11-29 23:01:05,900 - wc.controller - INFO - Starting sun function in telnetapi
+2015-11-29 23:01:05,900 - wc.controller - DEBUG - calling telnet with following arguments: username password 192.168.1.89 25565
+2015-11-29 23:01:05,900 - wc.controller - DEBUG - closing telnet
+2015-11-29 23:01:06,436 - wc.controller - DEBUG - Test module - choice 1
+2015-11-29 23:01:06,440 - wc.controller - INFO - Starting rain function in telnetapi
+2015-11-29 23:01:06,442 - wc.controller - DEBUG - calling telnet with following arguments: username password 192.168.1.89 25565
+2015-11-29 23:01:06,442 - wc.controller - DEBUG - closing telnet
+2015-11-29 23:01:07,058 - wc.controller - DEBUG - Test module - choice 2
+2015-11-29 23:01:07,058 - wc.controller - INFO - Starting sun function in telnetapi
+2015-11-29 23:01:07,058 - wc.controller - DEBUG - calling telnet with following arguments: username password 192.168.1.89 25565
+2015-11-29 23:01:07,073 - wc.controller - DEBUG - closing telnet
+2015-11-29 23:01:07,584 - wc.controller - DEBUG - Test module - choice 1
+2015-11-29 23:01:07,584 - wc.controller - INFO - Starting rain function in telnetapi
+2015-11-29 23:01:07,584 - wc.controller - DEBUG - calling telnet with following arguments: username password 192.168.1.89 25565
+2015-11-29 23:01:07,584 - wc.controller - DEBUG - closing telnet
+2015-11-29 23:01:08,225 - wc.controller - DEBUG - Test module - choice 2
+2015-11-29 23:01:08,225 - wc.controller - INFO - Starting sun function in telnetapi
+2015-11-29 23:01:08,225 - wc.controller - DEBUG - calling telnet with following arguments: username password 192.168.1.89 25565
+2015-11-29 23:01:08,225 - wc.controller - DEBUG - closing telnet
+2015-11-29 23:01:08,779 - wc.controller - DEBUG - Test module - choice 1
+2015-11-29 23:01:11,083 - wc.controller - INFO - Starting rain function in telnetapi
+2015-11-29 23:01:11,083 - wc.controller - DEBUG - calling telnet with following arguments: username password 192.168.1.89 25565
+2015-11-29 23:01:11,099 - wc.controller - DEBUG - closing telnet
+2015-11-29 23:01:11,099 - wc.controller - DEBUG - Test module - choice 2
+2015-11-29 23:01:11,099 - wc.controller - INFO - Starting sun function in telnetapi
+2015-11-29 23:01:11,099 - wc.controller - DEBUG - calling telnet with following arguments: username password 192.168.1.89 25565
+2015-11-29 23:01:11,115 - wc.controller - DEBUG - closing telnet
+2015-11-29 23:01:11,115 - wc.controller - DEBUG - Test module - choice 1
+2015-11-29 23:01:11,115 - wc.controller - INFO - Starting rain function in telnetapi
+2015-11-29 23:01:11,115 - wc.controller - DEBUG - calling telnet with following arguments: username password 192.168.1.89 25565
+2015-11-29 23:01:11,115 - wc.controller - DEBUG - closing telnet
+2015-11-29 23:01:11,272 - wc.controller - DEBUG - Test module - choice 2
+2015-11-29 23:01:11,287 - wc.controller - INFO - Starting sun function in telnetapi
+2015-11-29 23:01:11,287 - wc.controller - DEBUG - calling telnet with following arguments: username password 192.168.1.89 25565
+2015-11-29 23:01:11,287 - wc.controller - DEBUG - closing telnet
+2015-11-30 21:49:37,813 - wc.controller - INFO - WeatherCraft weather state reader and forward to Minecraft server is starting...
+2015-11-30 21:49:37,860 - wc.controller - DEBUG - Argument no  : localip = 127.0.0.1
+2015-11-30 21:49:37,860 - wc.controller - DEBUG - Argument no  : user = None
+2015-11-30 21:49:37,860 - wc.controller - DEBUG - Argument no  : target = 192.168.1.89
+2015-11-30 21:49:37,860 - wc.controller - DEBUG - Argument no  : verbose = True
+2015-11-30 21:49:37,860 - wc.controller - DEBUG - Argument no  : loglevel = debug
+2015-11-30 21:49:37,860 - wc.controller - DEBUG - Argument no  : localport = 8080
+2015-11-30 21:49:37,875 - wc.controller - DEBUG - Argument no  : frequency = 60
+2015-11-30 21:49:37,875 - wc.controller - DEBUG - Argument no  : test = True
+2015-11-30 21:49:37,875 - wc.controller - DEBUG - Argument no  : password = None
+2015-11-30 21:49:37,875 - wc.controller - DEBUG - Argument no  : port = None
+2015-11-30 21:49:37,875 - wc.controller - DEBUG - Argument no  : configfile = wcconfig.ini
+2015-11-30 21:49:37,875 - wc.controller - DEBUG - The target address is: 192.168.1.89
+2015-11-30 21:49:37,875 - wc.controller - DEBUG - The frequency is : 60
+2015-11-30 21:49:37,875 - wc.controller - DEBUG - The target address is: 192.168.1.89
+2015-11-30 21:49:37,875 - wc.controller - DEBUG - The port number is: None
+2015-11-30 21:49:37,875 - wc.controller - DEBUG - final config user: username
+2015-11-30 21:49:37,875 - wc.controller - DEBUG - final config password: password
+2015-11-30 21:49:37,875 - wc.controller - DEBUG - final config local IP: 127.0.0.1
+2015-11-30 21:49:37,875 - wc.controller - DEBUG - final config local port: 8080
+2015-11-30 21:49:37,891 - wc.controller - DEBUG - final config minecraft target IP: 192.168.1.89
+2015-11-30 21:49:37,891 - wc.controller - DEBUG - final config minecraft port number: 25564
+2015-11-30 21:49:37,891 - wc.controller - DEBUG - final config frequency: 60
+2015-11-30 21:49:37,891 - wc.controller - DEBUG - Launching a test with the following parameters: username password 192.168.1.89 25564
+2015-11-30 21:49:37,891 - wc.controller - INFO - Starting cmdline python file
+2015-11-30 21:49:41,012 - wc.controller - DEBUG - Test module - choice 1
+2015-11-30 21:49:41,012 - wc.controller - INFO - Starting rain function in telnetapi
+2015-11-30 21:49:41,012 - wc.controller - DEBUG - calling telnet with following arguments: username password 192.168.1.89 25564
+2015-11-30 21:51:36,387 - wc.controller - INFO - WeatherCraft weather state reader and forward to Minecraft server is starting...
+2015-11-30 21:51:36,387 - wc.controller - DEBUG - Argument no  : test = True
+2015-11-30 21:51:36,387 - wc.controller - DEBUG - Argument no  : frequency = 60
+2015-11-30 21:51:36,387 - wc.controller - DEBUG - Argument no  : localip = 127.0.0.1
+2015-11-30 21:51:36,387 - wc.controller - DEBUG - Argument no  : target = 192.168.1.89
+2015-11-30 21:51:36,387 - wc.controller - DEBUG - Argument no  : configfile = wcconfig.ini
+2015-11-30 21:51:36,387 - wc.controller - DEBUG - Argument no  : localport = 8080
+2015-11-30 21:51:36,387 - wc.controller - DEBUG - Argument no  : loglevel = debug
+2015-11-30 21:51:36,387 - wc.controller - DEBUG - Argument no  : verbose = True
+2015-11-30 21:51:36,387 - wc.controller - DEBUG - Argument no  : user = None
+2015-11-30 21:51:36,387 - wc.controller - DEBUG - Argument no  : port = None
+2015-11-30 21:51:36,387 - wc.controller - DEBUG - Argument no  : password = None
+2015-11-30 21:51:36,402 - wc.controller - DEBUG - The target address is: 192.168.1.89
+2015-11-30 21:51:36,402 - wc.controller - DEBUG - The frequency is : 60
+2015-11-30 21:51:36,402 - wc.controller - DEBUG - The target address is: 192.168.1.89
+2015-11-30 21:51:36,402 - wc.controller - DEBUG - The port number is: None
+2015-11-30 21:51:36,402 - wc.controller - DEBUG - final config user: username
+2015-11-30 21:51:36,402 - wc.controller - DEBUG - final config password: password
+2015-11-30 21:51:36,402 - wc.controller - DEBUG - final config local IP: 127.0.0.1
+2015-11-30 21:51:36,402 - wc.controller - DEBUG - final config local port: 8080
+2015-11-30 21:51:36,402 - wc.controller - DEBUG - final config minecraft target IP: 192.168.1.89
+2015-11-30 21:51:36,402 - wc.controller - DEBUG - final config minecraft port number: 25564
+2015-11-30 21:51:36,402 - wc.controller - DEBUG - final config frequency: 60
+2015-11-30 21:51:36,402 - wc.controller - DEBUG - Launching a test with the following parameters: username password 192.168.1.89 25564
+2015-11-30 21:51:36,402 - wc.controller - INFO - Starting cmdline python file
+2015-11-30 21:51:37,928 - wc.controller - DEBUG - Test module - choice 1
+2015-11-30 21:51:37,932 - wc.controller - INFO - Starting rain function in telnetapi
+2015-11-30 21:51:37,932 - wc.controller - DEBUG - calling telnet with following arguments: username password 192.168.1.89 25564
+2015-11-30 21:55:02,870 - wc.controller - INFO - WeatherCraft weather state reader and forward to Minecraft server is starting...
+2015-11-30 21:55:02,870 - wc.controller - DEBUG - Argument no  : user = None
+2015-11-30 21:55:02,870 - wc.controller - DEBUG - Argument no  : test = True
+2015-11-30 21:55:02,870 - wc.controller - DEBUG - Argument no  : password = None
+2015-11-30 21:55:02,870 - wc.controller - DEBUG - Argument no  : verbose = True
+2015-11-30 21:55:02,874 - wc.controller - DEBUG - Argument no  : localport = 8080
+2015-11-30 21:55:02,875 - wc.controller - DEBUG - Argument no  : configfile = wcconfig.ini
+2015-11-30 21:55:02,875 - wc.controller - DEBUG - Argument no  : frequency = 60
+2015-11-30 21:55:02,875 - wc.controller - DEBUG - Argument no  : target = 192.168.1.89
+2015-11-30 21:55:02,875 - wc.controller - DEBUG - Argument no  : port = None
+2015-11-30 21:55:02,875 - wc.controller - DEBUG - Argument no  : loglevel = debug
+2015-11-30 21:55:02,875 - wc.controller - DEBUG - Argument no  : localip = 127.0.0.1
+2015-11-30 21:55:02,875 - wc.controller - DEBUG - The target address is: 192.168.1.89
+2015-11-30 21:55:02,875 - wc.controller - DEBUG - The frequency is : 60
+2015-11-30 21:55:02,875 - wc.controller - DEBUG - The target address is: 192.168.1.89
+2015-11-30 21:55:02,875 - wc.controller - DEBUG - The port number is: None
+2015-11-30 21:55:02,875 - wc.controller - DEBUG - final config user: username
+2015-11-30 21:55:02,875 - wc.controller - DEBUG - final config password: password
+2015-11-30 21:55:02,875 - wc.controller - DEBUG - final config local IP: 127.0.0.1
+2015-11-30 21:55:02,875 - wc.controller - DEBUG - final config local port: 8080
+2015-11-30 21:55:02,875 - wc.controller - DEBUG - final config minecraft target IP: 192.168.1.89
+2015-11-30 21:55:02,875 - wc.controller - DEBUG - final config minecraft port number: 25564
+2015-11-30 21:55:02,875 - wc.controller - DEBUG - final config frequency: 60
+2015-11-30 21:55:02,875 - wc.controller - DEBUG - Launching a test with the following parameters: username password 192.168.1.89 25564
+2015-11-30 21:55:02,875 - wc.controller - INFO - Starting cmdline python file
+2015-11-30 21:57:20,180 - wc.controller - DEBUG - Test module - choice 1
+2015-11-30 21:57:20,180 - wc.controller - INFO - Starting rain function in telnetapi
+2015-11-30 21:57:20,180 - wc.controller - DEBUG - calling telnet with following arguments: username password 192.168.1.89 25564
+2015-11-30 22:06:51,214 - wc.controller - INFO - WeatherCraft weather state reader and forward to Minecraft server is starting...
+2015-11-30 22:06:51,214 - wc.controller - DEBUG - Argument no  : port = None
+2015-11-30 22:06:51,214 - wc.controller - DEBUG - Argument no  : frequency = 60
+2015-11-30 22:06:51,214 - wc.controller - DEBUG - Argument no  : target = 192.168.1.89
+2015-11-30 22:06:51,214 - wc.controller - DEBUG - Argument no  : user = None
+2015-11-30 22:06:51,214 - wc.controller - DEBUG - Argument no  : localip = 127.0.0.1
+2015-11-30 22:06:51,214 - wc.controller - DEBUG - Argument no  : loglevel = debug
+2015-11-30 22:06:51,214 - wc.controller - DEBUG - Argument no  : test = True
+2015-11-30 22:06:51,214 - wc.controller - DEBUG - Argument no  : configfile = wcconfig.ini
+2015-11-30 22:06:51,214 - wc.controller - DEBUG - Argument no  : verbose = True
+2015-11-30 22:06:51,214 - wc.controller - DEBUG - Argument no  : password = None
+2015-11-30 22:06:51,214 - wc.controller - DEBUG - Argument no  : localport = 8080
+2015-11-30 22:06:51,214 - wc.controller - DEBUG - The target address is: 192.168.1.89
+2015-11-30 22:06:51,214 - wc.controller - DEBUG - The frequency is : 60
+2015-11-30 22:06:51,214 - wc.controller - DEBUG - The target address is: 192.168.1.89
+2015-11-30 22:06:51,214 - wc.controller - DEBUG - The port number is: None
+2015-11-30 22:06:51,214 - wc.controller - DEBUG - final config user: username
+2015-11-30 22:06:51,214 - wc.controller - DEBUG - final config password: password
+2015-11-30 22:06:51,214 - wc.controller - DEBUG - final config local IP: 127.0.0.1
+2015-11-30 22:06:51,214 - wc.controller - DEBUG - final config local port: 8080
+2015-11-30 22:06:51,214 - wc.controller - DEBUG - final config minecraft target IP: 192.168.1.89
+2015-11-30 22:06:51,214 - wc.controller - DEBUG - final config minecraft port number: 25564
+2015-11-30 22:06:51,214 - wc.controller - DEBUG - final config frequency: 60
+2015-11-30 22:06:51,214 - wc.controller - DEBUG - Launching a test with the following parameters: username password 192.168.1.89 25564
+2015-11-30 22:06:51,214 - wc.controller - INFO - Starting cmdline python file
+2015-11-30 22:06:53,471 - wc.controller - DEBUG - Test module - choice 1
+2015-11-30 22:06:53,471 - wc.controller - INFO - Starting rain function in telnetapi
+2015-11-30 22:06:53,471 - wc.controller - DEBUG - calling telnet with following arguments: username password 192.168.1.89 25564
+2015-11-30 22:37:18,633 - wc.controller - INFO - WeatherCraft weather state reader and forward to Minecraft server is starting...
+2015-11-30 22:37:18,633 - wc.controller - DEBUG - Argument no  : password = None
+2015-11-30 22:37:18,633 - wc.controller - DEBUG - Argument no  : target = 192.168.1.89
+2015-11-30 22:37:18,633 - wc.controller - DEBUG - Argument no  : verbose = True
+2015-11-30 22:37:18,633 - wc.controller - DEBUG - Argument no  : port = None
+2015-11-30 22:37:18,633 - wc.controller - DEBUG - Argument no  : configfile = wcconfig.ini
+2015-11-30 22:37:18,633 - wc.controller - DEBUG - Argument no  : user = None
+2015-11-30 22:37:18,633 - wc.controller - DEBUG - Argument no  : localport = 8080
+2015-11-30 22:37:18,633 - wc.controller - DEBUG - Argument no  : frequency = 60
+2015-11-30 22:37:18,633 - wc.controller - DEBUG - Argument no  : loglevel = debug
+2015-11-30 22:37:18,633 - wc.controller - DEBUG - Argument no  : test = True
+2015-11-30 22:37:18,633 - wc.controller - DEBUG - Argument no  : localip = 127.0.0.1
+2015-11-30 22:37:18,633 - wc.controller - DEBUG - The target address is: 192.168.1.89
+2015-11-30 22:37:18,633 - wc.controller - DEBUG - The frequency is : 60
+2015-11-30 22:37:18,633 - wc.controller - DEBUG - The target address is: 192.168.1.89
+2015-11-30 22:37:18,633 - wc.controller - DEBUG - The port number is: None
+2015-11-30 22:37:18,633 - wc.controller - DEBUG - final config user: username
+2015-11-30 22:37:18,633 - wc.controller - DEBUG - final config password: password
+2015-11-30 22:37:18,633 - wc.controller - DEBUG - final config local IP: 127.0.0.1
+2015-11-30 22:37:18,633 - wc.controller - DEBUG - final config local port: 8080
+2015-11-30 22:37:18,633 - wc.controller - DEBUG - final config minecraft target IP: 192.168.1.89
+2015-11-30 22:37:18,633 - wc.controller - DEBUG - final config minecraft port number: 25564
+2015-11-30 22:37:18,633 - wc.controller - DEBUG - final config frequency: 60
+2015-11-30 22:37:18,633 - wc.controller - DEBUG - Launching a test with the following parameters: username password 192.168.1.89 25564
+2015-11-30 22:37:18,633 - wc.controller - INFO - Starting cmdline python file
+2015-11-30 22:37:20,664 - wc.controller - DEBUG - Test module - choice 1
+2015-11-30 22:37:20,664 - wc.controller - INFO - Starting rain function in telnetapi
+2015-11-30 22:37:20,664 - wc.controller - DEBUG - calling telnet with following arguments: username password 192.168.1.89 25564
+2015-11-30 22:37:20,928 - wc.controller - DEBUG - closing telnet
+2015-11-30 22:37:44,460 - wc.controller - INFO - WeatherCraft weather state reader and forward to Minecraft server is starting...
+2015-11-30 22:37:44,460 - wc.controller - DEBUG - Argument no  : user = None
+2015-11-30 22:37:44,460 - wc.controller - DEBUG - Argument no  : verbose = True
+2015-11-30 22:37:44,475 - wc.controller - DEBUG - Argument no  : loglevel = debug
+2015-11-30 22:37:44,475 - wc.controller - DEBUG - Argument no  : port = None
+2015-11-30 22:37:44,475 - wc.controller - DEBUG - Argument no  : localport = 8080
+2015-11-30 22:37:44,475 - wc.controller - DEBUG - Argument no  : configfile = wcconfig.ini
+2015-11-30 22:37:44,475 - wc.controller - DEBUG - Argument no  : password = None
+2015-11-30 22:37:44,475 - wc.controller - DEBUG - Argument no  : target = 192.168.1.89
+2015-11-30 22:37:44,475 - wc.controller - DEBUG - Argument no  : frequency = 60
+2015-11-30 22:37:44,475 - wc.controller - DEBUG - Argument no  : localip = 127.0.0.1
+2015-11-30 22:37:44,475 - wc.controller - DEBUG - Argument no  : test = True
+2015-11-30 22:37:44,475 - wc.controller - DEBUG - The target address is: 192.168.1.89
+2015-11-30 22:37:44,475 - wc.controller - DEBUG - The frequency is : 60
+2015-11-30 22:37:44,475 - wc.controller - DEBUG - The target address is: 192.168.1.89
+2015-11-30 22:37:44,475 - wc.controller - DEBUG - The port number is: None
+2015-11-30 22:37:44,475 - wc.controller - DEBUG - final config user: username
+2015-11-30 22:37:44,475 - wc.controller - DEBUG - final config password: password
+2015-11-30 22:37:44,475 - wc.controller - DEBUG - final config local IP: 127.0.0.1
+2015-11-30 22:37:44,475 - wc.controller - DEBUG - final config local port: 8080
+2015-11-30 22:37:44,475 - wc.controller - DEBUG - final config minecraft target IP: 192.168.1.89
+2015-11-30 22:37:44,475 - wc.controller - DEBUG - final config minecraft port number: 25564
+2015-11-30 22:37:44,475 - wc.controller - DEBUG - final config frequency: 60
+2015-11-30 22:37:44,475 - wc.controller - DEBUG - Launching a test with the following parameters: username password 192.168.1.89 25564
+2015-11-30 22:37:44,475 - wc.controller - INFO - Starting cmdline python file
+2015-11-30 22:37:46,781 - wc.controller - DEBUG - Test module - choice 1
+2015-11-30 22:37:46,781 - wc.controller - INFO - Starting rain function in telnetapi
+2015-11-30 22:37:46,781 - wc.controller - DEBUG - calling telnet with following arguments: username password 192.168.1.89 25564
+2015-11-30 22:37:46,891 - wc.controller - DEBUG - closing telnet
+2015-11-30 22:42:57,427 - wc.controller - INFO - WeatherCraft weather state reader and forward to Minecraft server is starting...
+2015-11-30 22:42:57,427 - wc.controller - DEBUG - Argument no  : user = None
+2015-11-30 22:42:57,427 - wc.controller - DEBUG - Argument no  : localip = 127.0.0.1
+2015-11-30 22:42:57,427 - wc.controller - DEBUG - Argument no  : localport = 8080
+2015-11-30 22:42:57,427 - wc.controller - DEBUG - Argument no  : verbose = True
+2015-11-30 22:42:57,427 - wc.controller - DEBUG - Argument no  : loglevel = debug
+2015-11-30 22:42:57,427 - wc.controller - DEBUG - Argument no  : test = True
+2015-11-30 22:42:57,427 - wc.controller - DEBUG - Argument no  : configfile = wcconfig.ini
+2015-11-30 22:42:57,442 - wc.controller - DEBUG - Argument no  : frequency = 60
+2015-11-30 22:42:57,442 - wc.controller - DEBUG - Argument no  : target = 192.168.1.89
+2015-11-30 22:42:57,442 - wc.controller - DEBUG - Argument no  : password = None
+2015-11-30 22:42:57,442 - wc.controller - DEBUG - Argument no  : port = None
+2015-11-30 22:42:57,442 - wc.controller - DEBUG - The target address is: 192.168.1.89
+2015-11-30 22:42:57,442 - wc.controller - DEBUG - The frequency is : 60
+2015-11-30 22:42:57,442 - wc.controller - DEBUG - The target address is: 192.168.1.89
+2015-11-30 22:42:57,442 - wc.controller - DEBUG - The port number is: None
+2015-11-30 22:42:57,442 - wc.controller - DEBUG - final config user: username
+2015-11-30 22:42:57,442 - wc.controller - DEBUG - final config password: password
+2015-11-30 22:42:57,442 - wc.controller - DEBUG - final config local IP: 127.0.0.1
+2015-11-30 22:42:57,442 - wc.controller - DEBUG - final config local port: 8080
+2015-11-30 22:42:57,442 - wc.controller - DEBUG - final config minecraft target IP: 192.168.1.89
+2015-11-30 22:42:57,442 - wc.controller - DEBUG - final config minecraft port number: 25564
+2015-11-30 22:42:57,442 - wc.controller - DEBUG - final config frequency: 60
+2015-11-30 22:42:57,442 - wc.controller - DEBUG - Launching a test with the following parameters: username password 192.168.1.89 25564
+2015-11-30 22:42:57,442 - wc.controller - INFO - Starting cmdline python file
+2015-11-30 22:43:00,129 - wc.controller - DEBUG - Test module - choice 1
+2015-11-30 22:43:00,129 - wc.controller - INFO - Starting rain function in telnetapi
+2015-11-30 22:43:00,129 - wc.controller - DEBUG - calling telnet with following arguments: username password 192.168.1.89 25564
+2015-11-30 22:50:42,838 - wc.controller - INFO - WeatherCraft weather state reader and forward to Minecraft server is starting...
+2015-11-30 22:50:42,842 - wc.controller - DEBUG - Argument no  : verbose = True
+2015-11-30 22:50:42,842 - wc.controller - DEBUG - Argument no  : user = None
+2015-11-30 22:50:42,842 - wc.controller - DEBUG - Argument no  : localport = 8080
+2015-11-30 22:50:42,843 - wc.controller - DEBUG - Argument no  : loglevel = debug
+2015-11-30 22:50:42,843 - wc.controller - DEBUG - Argument no  : target = 192.168.1.89
+2015-11-30 22:50:42,843 - wc.controller - DEBUG - Argument no  : port = None
+2015-11-30 22:50:42,843 - wc.controller - DEBUG - Argument no  : test = True
+2015-11-30 22:50:42,843 - wc.controller - DEBUG - Argument no  : password = None
+2015-11-30 22:50:42,843 - wc.controller - DEBUG - Argument no  : localip = 127.0.0.1
+2015-11-30 22:50:42,843 - wc.controller - DEBUG - Argument no  : configfile = wcconfig.ini
+2015-11-30 22:50:42,843 - wc.controller - DEBUG - Argument no  : frequency = 60
+2015-11-30 22:50:42,843 - wc.controller - DEBUG - The target address is: 192.168.1.89
+2015-11-30 22:50:42,843 - wc.controller - DEBUG - The frequency is : 60
+2015-11-30 22:50:42,843 - wc.controller - DEBUG - The target address is: 192.168.1.89
+2015-11-30 22:50:42,843 - wc.controller - DEBUG - The port number is: None
+2015-11-30 22:50:42,843 - wc.controller - DEBUG - final config user: username
+2015-11-30 22:50:42,843 - wc.controller - DEBUG - final config password: password
+2015-11-30 22:50:42,843 - wc.controller - DEBUG - final config local IP: 127.0.0.1
+2015-11-30 22:50:42,843 - wc.controller - DEBUG - final config local port: 8080
+2015-11-30 22:50:42,843 - wc.controller - DEBUG - final config minecraft target IP: 192.168.1.89
+2015-11-30 22:50:42,843 - wc.controller - DEBUG - final config minecraft port number: 25564
+2015-11-30 22:50:42,843 - wc.controller - DEBUG - final config frequency: 60
+2015-11-30 22:50:42,843 - wc.controller - DEBUG - Launching a test with the following parameters: username password 192.168.1.89 25564
+2015-11-30 22:50:42,843 - wc.controller - INFO - Starting cmdline python file
+2015-11-30 22:50:45,825 - wc.controller - DEBUG - Test module - choice 1
+2015-11-30 22:50:45,825 - wc.controller - INFO - Starting rain function in telnetapi
+2015-11-30 22:50:45,825 - wc.controller - DEBUG - calling telnet with following arguments: username password 192.168.1.89 25564
+2015-11-30 22:50:45,870 - wc.controller - DEBUG - closing telnet
+2015-11-30 23:00:16,963 - wc.controller - DEBUG - Test module - choice 1
+2015-11-30 23:00:16,963 - wc.controller - INFO - Starting rain function in telnetapi
+2015-11-30 23:00:16,963 - wc.controller - DEBUG - calling telnet with following arguments: username password 192.168.1.89 25564
+2015-11-30 23:00:20,917 - wc.controller - DEBUG - closing telnet
+2015-12-01 00:12:11,751 - wc.controller - INFO - WeatherCraft weather state reader and forward to Minecraft server is starting...
+2015-12-01 00:12:11,767 - wc.controller - DEBUG - Argument no  : frequency = 60
+2015-12-01 00:12:11,767 - wc.controller - DEBUG - Argument no  : test = True
+2015-12-01 00:12:11,767 - wc.controller - DEBUG - Argument no  : configfile = wcconfig.ini
+2015-12-01 00:12:11,767 - wc.controller - DEBUG - Argument no  : user = None
+2015-12-01 00:12:11,767 - wc.controller - DEBUG - Argument no  : port = None
+2015-12-01 00:12:11,783 - wc.controller - DEBUG - Argument no  : verbose = True
+2015-12-01 00:12:11,783 - wc.controller - DEBUG - Argument no  : loglevel = debug
+2015-12-01 00:12:11,783 - wc.controller - DEBUG - Argument no  : localip = 127.0.0.1
+2015-12-01 00:12:11,783 - wc.controller - DEBUG - Argument no  : password = None
+2015-12-01 00:12:11,783 - wc.controller - DEBUG - Argument no  : localport = 8080
+2015-12-01 00:12:11,783 - wc.controller - DEBUG - Argument no  : target = 192.168.1.89
+2015-12-01 00:12:11,783 - wc.controller - DEBUG - The target address is: 192.168.1.89
+2015-12-01 00:12:11,798 - wc.controller - DEBUG - The frequency is : 60
+2015-12-01 00:12:11,798 - wc.controller - DEBUG - The target address is: 192.168.1.89
+2015-12-01 00:12:11,798 - wc.controller - DEBUG - The port number is: None
+2015-12-01 00:12:11,798 - wc.controller - DEBUG - final config user: username
+2015-12-01 00:12:11,798 - wc.controller - DEBUG - final config password: password
+2015-12-01 00:12:11,798 - wc.controller - DEBUG - final config local IP: 127.0.0.1
+2015-12-01 00:12:11,798 - wc.controller - DEBUG - final config local port: 8080
+2015-12-01 00:12:11,814 - wc.controller - DEBUG - final config minecraft target IP: 192.168.1.89
+2015-12-01 00:12:11,814 - wc.controller - DEBUG - final config minecraft port number: 25564
+2015-12-01 00:12:11,814 - wc.controller - DEBUG - final config frequency: 60
+2015-12-01 00:12:11,814 - wc.controller - DEBUG - Launching a test with the following parameters: username password 192.168.1.89 25564
+2015-12-01 00:12:11,814 - wc.controller - INFO - Starting cmdline python file
+2015-12-01 00:12:16,157 - wc.controller - DEBUG - Test module - choice 1
+2015-12-01 00:12:16,157 - wc.controller - INFO - Starting rain function in telnetapi
+2015-12-01 00:12:16,157 - wc.controller - DEBUG - calling telnet with following arguments: username password 192.168.1.89 25564
+2015-12-01 00:12:41,185 - wc.controller - INFO - WeatherCraft weather state reader and forward to Minecraft server is starting...
+2015-12-01 00:12:41,185 - wc.controller - DEBUG - Argument no  : password = None
+2015-12-01 00:12:41,185 - wc.controller - DEBUG - Argument no  : localport = 8080
+2015-12-01 00:12:41,201 - wc.controller - DEBUG - Argument no  : localip = 127.0.0.1
+2015-12-01 00:12:41,201 - wc.controller - DEBUG - Argument no  : configfile = wcconfig.ini
+2015-12-01 00:12:41,201 - wc.controller - DEBUG - Argument no  : target = 192.168.1.89
+2015-12-01 00:12:41,201 - wc.controller - DEBUG - Argument no  : verbose = True
+2015-12-01 00:12:41,201 - wc.controller - DEBUG - Argument no  : frequency = 60
+2015-12-01 00:12:41,201 - wc.controller - DEBUG - Argument no  : loglevel = debug
+2015-12-01 00:12:41,201 - wc.controller - DEBUG - Argument no  : test = True
+2015-12-01 00:12:41,216 - wc.controller - DEBUG - Argument no  : user = None
+2015-12-01 00:12:41,216 - wc.controller - DEBUG - Argument no  : port = None
+2015-12-01 00:12:41,216 - wc.controller - DEBUG - The target address is: 192.168.1.89
+2015-12-01 00:12:41,216 - wc.controller - DEBUG - The frequency is : 60
+2015-12-01 00:12:41,216 - wc.controller - DEBUG - The target address is: 192.168.1.89
+2015-12-01 00:12:41,216 - wc.controller - DEBUG - The port number is: None
+2015-12-01 00:12:41,232 - wc.controller - DEBUG - final config user: username
+2015-12-01 00:12:41,232 - wc.controller - DEBUG - final config password: password
+2015-12-01 00:12:41,232 - wc.controller - DEBUG - final config local IP: 127.0.0.1
+2015-12-01 00:12:41,232 - wc.controller - DEBUG - final config local port: 8080
+2015-12-01 00:12:41,232 - wc.controller - DEBUG - final config minecraft target IP: 192.168.1.89
+2015-12-01 00:12:41,232 - wc.controller - DEBUG - final config minecraft port number: 25564
+2015-12-01 00:12:41,232 - wc.controller - DEBUG - final config frequency: 60
+2015-12-01 00:12:41,232 - wc.controller - DEBUG - Launching a test with the following parameters: username password 192.168.1.89 25564
+2015-12-01 00:12:41,248 - wc.controller - INFO - Starting cmdline python file
+2015-12-01 00:12:42,880 - wc.controller - DEBUG - Test module - choice 1
+2015-12-01 00:12:42,881 - wc.controller - INFO - Starting rain function in telnetapi
+2015-12-01 00:12:42,884 - wc.controller - DEBUG - calling telnet with following arguments: username password 192.168.1.89 25564
+2015-12-01 00:23:06,770 - wc.controller - INFO - WeatherCraft weather state reader and forward to Minecraft server is starting...
+2015-12-01 00:23:06,770 - wc.controller - DEBUG - Argument no  : port = None
+2015-12-01 00:23:06,770 - wc.controller - DEBUG - Argument no  : verbose = True
+2015-12-01 00:23:06,770 - wc.controller - DEBUG - Argument no  : target = 192.168.1.89
+2015-12-01 00:23:06,770 - wc.controller - DEBUG - Argument no  : user = None
+2015-12-01 00:23:06,770 - wc.controller - DEBUG - Argument no  : frequency = 60
+2015-12-01 00:23:06,770 - wc.controller - DEBUG - Argument no  : localip = 127.0.0.1
+2015-12-01 00:23:06,770 - wc.controller - DEBUG - Argument no  : password = None
+2015-12-01 00:23:06,786 - wc.controller - DEBUG - Argument no  : test = True
+2015-12-01 00:23:06,786 - wc.controller - DEBUG - Argument no  : loglevel = debug
+2015-12-01 00:23:06,786 - wc.controller - DEBUG - Argument no  : configfile = wcconfig.ini
+2015-12-01 00:23:06,786 - wc.controller - DEBUG - Argument no  : localport = 8080
+2015-12-01 00:23:06,786 - wc.controller - DEBUG - The target address is: 192.168.1.89
+2015-12-01 00:23:06,786 - wc.controller - DEBUG - The frequency is : 60
+2015-12-01 00:23:06,786 - wc.controller - DEBUG - The target address is: 192.168.1.89
+2015-12-01 00:23:06,786 - wc.controller - DEBUG - The port number is: None
+2015-12-01 00:23:06,786 - wc.controller - DEBUG - final config user: username
+2015-12-01 00:23:06,786 - wc.controller - DEBUG - final config password: password
+2015-12-01 00:23:06,786 - wc.controller - DEBUG - final config local IP: 127.0.0.1
+2015-12-01 00:23:06,786 - wc.controller - DEBUG - final config local port: 8080
+2015-12-01 00:23:06,786 - wc.controller - DEBUG - final config minecraft target IP: 192.168.1.89
+2015-12-01 00:23:06,786 - wc.controller - DEBUG - final config minecraft port number: 25564
+2015-12-01 00:23:06,786 - wc.controller - DEBUG - final config frequency: 60
+2015-12-01 00:23:06,786 - wc.controller - DEBUG - Launching a test with the following parameters: username password 192.168.1.89 25564
+2015-12-01 00:23:06,786 - wc.controller - INFO - Starting cmdline python file
+2015-12-01 00:23:08,836 - wc.controller - DEBUG - Test module - choice 1
+2015-12-01 00:23:08,836 - wc.controller - INFO - Starting rain function in telnetapi
+2015-12-01 00:23:08,836 - wc.controller - DEBUG - calling telnet with following arguments: username password 192.168.1.89 25564
+2015-12-01 00:24:44,352 - wc.controller - INFO - WeatherCraft weather state reader and forward to Minecraft server is starting...
+2015-12-01 00:24:44,352 - wc.controller - DEBUG - Argument no  : test = True
+2015-12-01 00:24:44,352 - wc.controller - DEBUG - Argument no  : user = None
+2015-12-01 00:24:44,352 - wc.controller - DEBUG - Argument no  : configfile = wcconfig.ini
+2015-12-01 00:24:44,368 - wc.controller - DEBUG - Argument no  : localport = 8080
+2015-12-01 00:24:44,368 - wc.controller - DEBUG - Argument no  : frequency = 60
+2015-12-01 00:24:44,368 - wc.controller - DEBUG - Argument no  : port = None
+2015-12-01 00:24:44,368 - wc.controller - DEBUG - Argument no  : localip = 127.0.0.1
+2015-12-01 00:24:44,368 - wc.controller - DEBUG - Argument no  : target = 192.168.1.89
+2015-12-01 00:24:44,368 - wc.controller - DEBUG - Argument no  : password = None
+2015-12-01 00:24:44,368 - wc.controller - DEBUG - Argument no  : verbose = True
+2015-12-01 00:24:44,368 - wc.controller - DEBUG - Argument no  : loglevel = debug
+2015-12-01 00:24:44,368 - wc.controller - DEBUG - The target address is: 192.168.1.89
+2015-12-01 00:24:44,368 - wc.controller - DEBUG - The frequency is : 60
+2015-12-01 00:24:44,368 - wc.controller - DEBUG - The target address is: 192.168.1.89
+2015-12-01 00:24:44,368 - wc.controller - DEBUG - The port number is: None
+2015-12-01 00:24:44,368 - wc.controller - DEBUG - final config user: username
+2015-12-01 00:24:44,368 - wc.controller - DEBUG - final config password: password
+2015-12-01 00:24:44,368 - wc.controller - DEBUG - final config local IP: 127.0.0.1
+2015-12-01 00:24:44,368 - wc.controller - DEBUG - final config local port: 8080
+2015-12-01 00:24:44,368 - wc.controller - DEBUG - final config minecraft target IP: 192.168.1.89
+2015-12-01 00:24:44,368 - wc.controller - DEBUG - final config minecraft port number: 25564
+2015-12-01 00:24:44,368 - wc.controller - DEBUG - final config frequency: 60
+2015-12-01 00:24:44,368 - wc.controller - DEBUG - Launching a test with the following parameters: username password 192.168.1.89 25564
+2015-12-01 00:24:44,368 - wc.controller - INFO - Starting cmdline python file
+2015-12-01 00:24:45,899 - wc.controller - DEBUG - Test module - choice 1
+2015-12-01 00:24:45,899 - wc.controller - INFO - Starting rain function in telnetapi
+2015-12-01 00:24:45,899 - wc.controller - DEBUG - calling telnet with following arguments: username password 192.168.1.89 25564
+2015-12-01 00:24:45,935 - wc.controller - DEBUG - closing telnet
+2015-12-01 00:25:26,880 - wc.controller - DEBUG - Test module - choice 2
+2015-12-01 00:25:26,881 - wc.controller - INFO - Starting sun function in telnetapi
+2015-12-01 00:25:26,881 - wc.controller - DEBUG - calling telnet with following arguments: username password 192.168.1.89 25564
+2015-12-01 00:25:26,902 - wc.controller - DEBUG - closing telnet
+2015-12-01 00:25:28,909 - wc.controller - DEBUG - Test module - choice 3
+2015-12-01 00:25:28,909 - wc.controller - INFO - Starting day function in telnetapi
+2015-12-01 00:25:28,909 - wc.controller - DEBUG - calling telnet with following arguments: username password 192.168.1.89 25564
+2015-12-01 00:25:28,913 - wc.controller - DEBUG - closing telnet
+2015-12-01 00:25:30,559 - wc.controller - DEBUG - Test module - choice 4
+2015-12-01 00:25:30,559 - wc.controller - INFO - Starting night function in telnetapi
+2015-12-01 00:25:30,559 - wc.controller - DEBUG - calling telnet with following arguments: username password 192.168.1.89 25564
+2015-12-01 00:25:30,574 - wc.controller - DEBUG - closing telnet
+2015-12-01 00:25:41,335 - wc.controller - DEBUG - Test module - choice 1
+2015-12-01 00:25:41,342 - wc.controller - INFO - Starting rain function in telnetapi
+2015-12-01 00:25:41,342 - wc.controller - DEBUG - calling telnet with following arguments: username password 192.168.1.89 25564
+2015-12-01 00:25:41,425 - wc.controller - DEBUG - closing telnet
+2015-12-01 00:25:42,385 - wc.controller - DEBUG - Test module - choice 2
+2015-12-01 00:25:42,385 - wc.controller - INFO - Starting sun function in telnetapi
+2015-12-01 00:25:42,385 - wc.controller - DEBUG - calling telnet with following arguments: username password 192.168.1.89 25564
+2015-12-01 00:25:42,450 - wc.controller - DEBUG - closing telnet
+2015-12-01 00:25:43,220 - wc.controller - DEBUG - Test module - choice 1
+2015-12-01 00:25:43,220 - wc.controller - INFO - Starting rain function in telnetapi
+2015-12-01 00:25:43,220 - wc.controller - DEBUG - calling telnet with following arguments: username password 192.168.1.89 25564
+2015-12-01 00:25:43,228 - wc.controller - DEBUG - closing telnet
+2015-12-01 00:25:43,960 - wc.controller - DEBUG - Test module - choice 2
+2015-12-01 00:25:43,960 - wc.controller - INFO - Starting sun function in telnetapi
+2015-12-01 00:25:43,960 - wc.controller - DEBUG - calling telnet with following arguments: username password 192.168.1.89 25564
+2015-12-01 00:25:43,975 - wc.controller - DEBUG - closing telnet
+2015-12-01 00:25:45,678 - wc.controller - DEBUG - Test module - choice 3
+2015-12-01 00:25:45,678 - wc.controller - INFO - Starting day function in telnetapi
+2015-12-01 00:25:45,678 - wc.controller - DEBUG - calling telnet with following arguments: username password 192.168.1.89 25564
+2015-12-01 00:25:45,678 - wc.controller - DEBUG - closing telnet
+2015-12-01 22:11:56,502 - wc.controller - INFO - WeatherCraft weather state reader and forward to Minecraft server is starting...
+2015-12-01 22:11:56,647 - wc.controller - DEBUG - Argument no  : port = None
+2015-12-01 22:11:56,647 - wc.controller - DEBUG - Argument no  : password = None
+2015-12-01 22:11:56,647 - wc.controller - DEBUG - Argument no  : configfile = wcconfig.ini
+2015-12-01 22:11:56,663 - wc.controller - DEBUG - Argument no  : test = True
+2015-12-01 22:11:56,663 - wc.controller - DEBUG - Argument no  : localport = 8080
+2015-12-01 22:11:56,663 - wc.controller - DEBUG - Argument no  : localip = 127.0.0.1
+2015-12-01 22:11:56,663 - wc.controller - DEBUG - Argument no  : verbose = True
+2015-12-01 22:11:56,663 - wc.controller - DEBUG - Argument no  : frequency = 60
+2015-12-01 22:11:56,663 - wc.controller - DEBUG - Argument no  : target = 192.168.1.89
+2015-12-01 22:11:56,663 - wc.controller - DEBUG - Argument no  : loglevel = debug
+2015-12-01 22:11:56,663 - wc.controller - DEBUG - Argument no  : user = None
+2015-12-01 22:11:56,663 - wc.controller - DEBUG - The target address is: 192.168.1.89
+2015-12-01 22:11:56,663 - wc.controller - DEBUG - The frequency is : 60
+2015-12-01 22:11:56,663 - wc.controller - DEBUG - The target address is: 192.168.1.89
+2015-12-01 22:11:56,663 - wc.controller - DEBUG - The port number is: None
+2015-12-01 22:11:56,679 - wc.controller - DEBUG - final config user: username
+2015-12-01 22:11:56,679 - wc.controller - DEBUG - final config password: password
+2015-12-01 22:11:56,679 - wc.controller - DEBUG - final config local IP: 127.0.0.1
+2015-12-01 22:11:56,679 - wc.controller - DEBUG - final config local port: 8080
+2015-12-01 22:11:56,679 - wc.controller - DEBUG - final config minecraft target IP: 192.168.1.89
+2015-12-01 22:11:56,679 - wc.controller - DEBUG - final config minecraft port number: 25564
+2015-12-01 22:11:56,679 - wc.controller - DEBUG - final config frequency: 60
+2015-12-01 22:11:56,679 - wc.controller - DEBUG - Launching a test with the following parameters: username password 192.168.1.89 25564
+2015-12-01 22:11:56,679 - wc.controller - INFO - Starting cmdline python file
+2015-12-01 22:12:01,160 - wc.controller - DEBUG - Test module - choice 1
+2015-12-01 22:12:01,164 - wc.controller - INFO - Starting rain function in telnetapi
+2015-12-01 22:12:01,164 - wc.controller - DEBUG - calling telnet with following arguments: username password 192.168.1.89 25564
