@@ -5,7 +5,7 @@
 ## I assume no responsibility with regards to the utilisation of this software
 ## No creepers, or any other mobs, were hurt during the realisation or utilisation of this software
 ##
-## Géry Ducatel
+## Gery Ducatel
 ##
 
 

@@ -5,7 +5,7 @@
 ## I assume no responsibility with regards to the utilisation of this software
 ## No creepers, or any other mobs, were hurt during the realisation or utilisation of this software
 ##
-## Géry Ducatel
+## Gery Ducatel
 ##
 
 import logging          # a logger library
@@ -15,6 +15,7 @@ import os               # a library used to check files on the system
 import re               # Oh yeah, that's right, import regular expression, c'mon baby
 
 from cmdline import launch
+from light import foreverlight
 
 # start
 # I want the ability to start with specific target IP address for the weather state REST API server, and port (default being 127.0.0.1 and 8080)
@@ -85,6 +86,7 @@ def initialise():
     parser.add_argument("-lip", "--localip", default = '127.0.0.1', help = "local IP address default 127.0.0.1", type = str)
     parser.add_argument("-lp", "--localport", default = 8080, help = "local port default 8080", type = int)
     parser.add_argument("-t", "--test", action = "store_true", help = "Run in test mode with command line input")
+    parser.add_argument("-dn", "--daynight", action  = "store_true", help = "Read daylight input from external sensor")
 
     args = parser.parse_args()
 
@@ -194,6 +196,7 @@ def initialise():
             password = config.get('raspberry.minecraft', 'password')
             frequency = config.get('raspberry.minecraft', 'frequency')
 
+
     if not user:
         logger.error('User is not defined')
     else:
@@ -238,6 +241,10 @@ def initialise():
         logger.debug('Launching a test with the following parameters: ' + user + ' ' + password + ' ' + targetip + ' ' + portnumber)
         launch(user, password, targetip, portnumber)
 
+    if args.daynight:
+        logger.debug('Starting exernal reading for light from sensor')
+        foreverlight(user, password, targetip, portnumber)
+
 
     
     return
@@ -275,5 +282,4 @@ main()
 ## print bytes as string
 #print ("hello "+buser.decode('utf-8'))
 #print ("hello "+str(buser, 'utf-8'))
-
 
